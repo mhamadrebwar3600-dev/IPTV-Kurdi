@@ -11,8 +11,6 @@ http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="General",Ravand
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
-#EXTINF:-1  tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="General",KIRKUK TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1  tvg-name="NUBAR TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR TV
