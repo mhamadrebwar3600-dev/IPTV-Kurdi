@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="ONE Plus" tvg-logo="file:///D:/ONE/photo_2026-05-29_00-51-08.png" group-title="News",ONE Plus
+#EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://cdn.corenexis.com/f/YfZJNuCs5um.png" group-title="News",ONE Plus
 https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
 #EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
