@@ -97,8 +97,6 @@ http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="General",Derin
 http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
-#EXTINF:-1  tvg-name="RED TV" tvg-logo="https://i.postimg.cc/N03Cq1xf/red.png" group-title="General",RED TV
-http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 1" tvg-logo="https://i.postimg.cc/MGm54hXd/n1.png" group-title="General",NEWLAIN 1
 http://185.95.184.33:25461/live/120541/20364/112.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 2" tvg-logo="https://i.postimg.cc/xTg0fd7g/n2.png" group-title="General",NEWLAIN 2
