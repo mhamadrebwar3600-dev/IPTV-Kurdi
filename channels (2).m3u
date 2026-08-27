@@ -53,8 +53,6 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 http://185.95.184.33:25461/live/120541/20364/132.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="General",Rasan
 http://185.95.184.33:25461/live/120541/20364/94.m3u8
-#EXTINF:-1  tvg-name="Komall" tvg-logo="https://i.postimg.cc/43wkR7Vs/komal.png" group-title="General",Komall
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="General",Sahar Kurdish
 http://185.95.184.33:25461/live/120541/20364/185.m3u8
 #EXTINF:-1  tvg-name="Babolly" tvg-logo="https://i.postimg.cc/4d2fwCM4/channels4-profile.jpg" group-title="General",Babolly
@@ -67,6 +65,8 @@ http://185.95.184.33:25461/live/120541/20364/131.m3u8
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Znar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="General",Znar
 http://185.95.184.33:25461/live/120541/20364/161.m3u8
+#EXTINF:-1  tvg-name="beIN GOURMET" tvg-logo="https://i.postimg.cc/wTbtPWTz/bein-gourmet.png" group-title="General",beIN GOURMET
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/6804/index.m3u8
 #EXTINF:-1  tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/t4sZNVyj/Shar-tv-200.jpg" group-title="General",SHAR TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="General",KHAK TV
@@ -87,9 +87,11 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166768
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=m3u8
 #EXTINF:-1  tvg-name="IMK TV" tvg-logo="https://i.postimg.cc/xCnSNTJK/Screenshot-5-6-2026-213012-www-bing-com.jpg" group-title="General",IMK TV
 http://imkhd.ddns.net:1935/live/imkhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Mirna TV" tvg-logo="https://i.postimg.cc/FFCSMJLp/Mirna-TV.png" group-title="General",Mirna TV
+http://161.97.123.126:8081/stream/mirna/master.m3u8
 #EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="General",PSHDAR TV
 http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="General",test
+#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="General",test
 https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
 #EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="General",Duhok TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
@@ -97,6 +99,8 @@ http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="General",Derin
 http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
+#EXTINF:-1  tvg-name="RED TV" tvg-logo="https://i.postimg.cc/N03Cq1xf/red.png" group-title="General",RED TV
+http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 1" tvg-logo="https://i.postimg.cc/MGm54hXd/n1.png" group-title="General",NEWLAIN 1
 http://185.95.184.33:25461/live/120541/20364/112.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 2" tvg-logo="https://i.postimg.cc/xTg0fd7g/n2.png" group-title="General",NEWLAIN 2
@@ -149,6 +153,8 @@ https://win.holol.com/live/quran/chunklist_w1967448292.m3u8
 https://win.holol.com/live/sunnah/chunklist_w812271973.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="Religious",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="Religious",TV Sunnat
+https://live20.bozztv.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="Religious",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="Religious",Amozhgary
@@ -159,12 +165,12 @@ https://app-live.org/live/a267c1b3/index.m3u8
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="Religious",SADA TV
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:-1  tvg-name="Komall" tvg-logo="https://i.postimg.cc/43wkR7Vs/komal.png" group-title="Religious",Komall
+https://57de1gs.s.gy/oneplustvkomall
 #EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Religious",MIHRAB
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 #EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="Religious",MIHRAB-FM
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="Religious",TV Sunnat
-https://live20.bozztv.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1  tvg-name="QATAR Quran Kareem" tvg-logo="https://i.postimg.cc/jjyvKcXS/QATAR-TV-1.jpg" group-title="Religious",QATAR Quran Kareem
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 #EXTINF:-1  tvg-name="Sharjah Quran Kareem" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="Religious",Sharjah Quran Kareem
@@ -261,6 +267,8 @@ http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hSKJrh5oNuGurjbxzUSPhw/m3u8
 http://lio100.xyz/live/15034094901029/18800196589372/429518.m3u8
 #EXTINF:-1  tvg-name="Dasinya SPORT " tvg-logo="https://cdn.corenexis.com/f/IR63k40N8Qe.jpeg" group-title="SPORTS",Dasinya Sport
 http://lio100.xyz/live/15034094901029/18800196589372/358230.m3u8
+#EXTINF:-1  tvg-name="Sima Sport " tvg-logo="https://i.postimg.cc/dVyRw71c/Sima-Sport.png" group-title="SPORTS",Sima Sport
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMVZ5RnpCcWRrWHVXS0UwSEVWTUR4OD0
 #EXTINF:-1  tvg-name="Newlain Sport " tvg-logo="https://i.postimg.cc/6qpSwXnq/photo-2026-07-27-00-27-55.jpg" group-title="SPORTS",Newlain Sport
 http://lio100.xyz/live/15034094901029/18800196589372/358233.m3u8 
 #EXTINF:-1  tvg-name="Delal Sport " tvg-logo="" group-title="SPORTS",Delal Sport
@@ -362,7 +370,7 @@ http://23.237.104.106:8080/DAZN_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/Px9FNDt5/NR1-Sport-200.png" group-title="SPORTS",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1  tvg-name="Gawher SPORT" tvg-logo="https://i.postimg.cc/m2GRwH6q/Gawher-sport-200.png" group-title="SPORTS",Gawher SPORT
-https://live20.bozztv.com/giatv/giatv-gewherspha88/gewherspha88/chunks.m3u8
+https://cdn.karwan.tv/gewher-sport/index.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uv2aRxeP2OVDohANfqf-hk/m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS NEWS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS NEWS
@@ -433,7 +441,7 @@ https://cdn.jumpshare.com/preview/V8Tc4EcTOUlSRwTLjBWYkeuQbgOuqmUEq-5EeY8VuCgWfV
 https://cdn.jumpshare.com/preview/AYKSgJkXn77b7UDCgZ6KB2O9NSvDqeJh966xHT6iqRaM04f_n1a3ttQwq43Je1PJdxhypF6b4nR9YSdS1x5H2DBphx9LmDwUdqXJzgE6rBAfVJqHgV7AxcmyBQ87I122lD151vmpNPNqbXNovKcnB_0TT5kp9FzXTNMoYG6cKB8.mp4
 #EXTINF:-1  tvg-name="Haikyu 1-4" tvg-logo="" group-title="Series",Haikyu 1-4
 https://stream.kurdsubtitle.net/videos/bf571b166961ff8637edc0200bab1ffc8de215e96eedd284aaa2acaca18fc2b9b9f9c955b9b2756db643/video.mp4?sid=73aecce3-9b34-4d69-b377-26fbca5f4b2d&exp=1787492159&sig=Ie5PxHs-NcFr70K2F5CKFb0rGw9FcW1qsGihfs1i_gM
-#EXTINF:-1  tvg-name="Haikyu 1-2" tvg-logo="" group-title="Series",Haikyu 1-5
+#EXTINF:-1  tvg-name="Haikyu 1-5" tvg-logo="" group-title="Series",Haikyu 1-5
 https://stream.kurdsubtitle.net/videos/755eda8a78f181892fdf0cc754607f7b28be8377cc7f0108a9898fe4beac2b57316633723ddcab3a9ae1/video.mp4?sid=0e9c639e-6fd3-41cd-a52f-16533b85a1fb&exp=1787492213&sig=qyxSUKvEXUc1zrgb5tg7QkN5hB_XxGoeohHJDk31wwY
 #EXTINF:-1  tvg-name="Chicken Run 1" tvg-logo="" group-title="Series",Chicken Run 1
 https://stream.kurdsubtitle.net/videos/e699ffdb25eb129cb0f1613d54028fd60004d58a708bb62783fcd36eec89295eab140bedcb453244ec3c/video.mp4?sid=9a349d9c-2cf8-4529-a499-9ff549604c73&exp=1787494856&sig=3bKXe7VEiFet0fFZU250epbUqELuKlDHRiBxSVOysm0
