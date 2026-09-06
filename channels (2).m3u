@@ -14,7 +14,7 @@ https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002_mp4a_12
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="Speda" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="News",Speda
-http://185.95.184.33:25461/live/120541/20364/103.m3u8
+https://speda1.site/upload/images/spedahd.m3u8
 #EXTINF:-1  tvg-name="AL Jazeera Arabic" tvg-logo="https://cdn.corenexis.com/f/01VwFDcDjLw.png" group-title="News",AL Jazeera Arabic
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/01.m3u8
 #EXTINF:-1  tvg-name="AL Arabia News" tvg-logo="https://i.postimg.cc/MK8qkcrm/al-arabia.jpg" group-title="News",AL Arabia News
@@ -53,12 +53,14 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 http://185.95.184.33:25461/live/120541/20364/132.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="General",Rasan
 http://185.95.184.33:25461/live/120541/20364/94.m3u8
+#EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="General",Komall TV
+https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="General",Sahar Kurdish
 http://185.95.184.33:25461/live/120541/20364/185.m3u8
 #EXTINF:-1  tvg-name="Babolly" tvg-logo="https://i.postimg.cc/4d2fwCM4/channels4-profile.jpg" group-title="General",Babolly
 http://185.95.184.33:25461/live/120541/20364/4703.m3u8
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="General",Speda Drama
-http://185.95.184.33:25461/live/120541/20364/201.m3u8
+https://speda2.site/upload/images/spedadrama.m3u8
 #EXTINF:-1  tvg-name="Kurdana" tvg-logo="https://i.postimg.cc/SNGyXftC/kurdana.jpg" group-title="General",Kurdana
 http://185.95.184.33:25461/live/120541/20364/131.m3u8
 #EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="General",‌Halabja
@@ -102,9 +104,9 @@ http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
 #EXTINF:-1  tvg-name="RED TV" tvg-logo="https://i.postimg.cc/N03Cq1xf/red.png" group-title="General",RED TV
 http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 1" tvg-logo="https://i.postimg.cc/MGm54hXd/n1.png" group-title="General",NEWLAIN 1
-http://185.95.184.33:25461/live/120541/20364/112.m3u8
+http://dreamteev.xyz:80/MagedHennawy/635518K/54032
 #EXTINF:-1  tvg-name="NEWLAIN 2" tvg-logo="https://i.postimg.cc/xTg0fd7g/n2.png" group-title="General",NEWLAIN 2
-http://185.95.184.33:25461/live/120541/20364/113.m3u8
+http://dreamteev.xyz:80/MagedHennawy/635518K/54031
 #EXTINF:-1  tvg-name="Kurd Ciname" tvg-logo="https://i.postimg.cc/B6G5Cs3n/unnamed.jpg" group-title="General",Kurd Ciname
 http://line.127-cloudfront.xyz/live/aeb4df2522/dcee39b551/1859074.m3u8
 #EXTINF:-1  tvg-name="SHNA TV" tvg-logo="https://i.postimg.cc/26b0p54R/Shna-tv-200.jpg" group-title="General",SHNA TV
@@ -215,6 +217,8 @@ https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 http://max4kcdn.com:8080/live/5161699711/3840575058/119552.m3u8
 #EXTINF:-1 tvg-name="IRIB Pooya & Nahal" tvg-logo="https://i.imgur.com/hjeQUtg.png" tvg-id="PooyaTV.ir" tvg-chno="13" tvg-country="IR" group-title="KIDS",IRIB Pooya & Nahal
 https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+#EXTINF:-1  tvg-name="Presiana Junior" tvg-logo="" group-title="KIDS",Presiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  tvg-name="Kramesh" tvg-logo="" group-title="KIDS",Kramesh
 http://xlion.net:8080/live/Hn544326/3177334236/88027.m3u8
 #EXTINF:-1  tvg-name="NIGA Kids" tvg-logo="https://i.postimg.cc/brqb5bGS/niga-kids.png" group-title="KIDS",NIGA Kids
@@ -244,25 +248,25 @@ http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1  tvg-name="trtcocuk" tvg-logo="https://i.postimg.cc/j5HprcXp/TRT-Chuchak-200.png" group-title="KIDS",TRT cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/FKF0TH4N/nrt-sport.png" group-title="SPORTS",NRT SPORT
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/358220.ts
+http://185.191.126.127:8080/live/ksa92543/49566522386/358220.ts
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="SPORTS",AVA SPORT
-http://lio100.xyz/live/15034094901029/18800196589372/358221.ts
+http://185.191.126.127:8080/live/ksa92543/49566522386/358221.ts
 #EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="SPORTS",ASTERA SPORT
 http://185.95.184.33:25461/live/120541/20364/149.m3u8
 #EXTINF:-1  tvg-name="ASTERA SPORT 2" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="SPORTS",ASTERA SPORT 2
 http://185.95.184.33:25461/live/120541/20364/4321.m3u8
 #EXTINF:-1  tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/dV5htRzX/images-(2).jpg" group-title="SPORTS",LD SPORT
-http://lio100.xyz/live/15034094901029/18800196589372/358229.m3u8
+http://185.191.126.127:8080/live/ksa92543/49566522386/358229.ts
 #EXTINF:-1  tvg-name="LD SPORT Cheak " tvg-logo="https://i.postimg.cc/0jvkCrTS/Screenshot-16-7-2026-15318-www-bing.jpg" group-title="SPORTS",LD SPORT Cheak
-http://lio100.xyz/live/15034094901029/18800196589372/358238.m3u8
+http://185.191.126.127:8080/live/ksa92543/49566522386/358238.ts
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="SPORTS",ASO Sport
 http://lio100.xyz/live/15034094901029/18800196589372/358232.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="SPORTS",KURDISTAN SPORT
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/358219.ts
 #EXTINF:-1  tvg-name="Thamanyah 1 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="SPORTS",Thamanyah 1
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gp4k857UKqwGv7-0ofz5Ac/m3u8
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gp4k857UKqwGv7-0ofz5Ac/ts
 #EXTINF:-1  tvg-name="Thamanyah 2 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="SPORTS",Thamanyah 2
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hSKJrh5oNuGurjbxzUSPhw/m3u8
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hSKJrh5oNuGurjbxzUSPhw/ts
 #EXTINF:-1  tvg-name="Thamanyah 3 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="SPORTS",Thamanyah 3
 http://lio100.xyz/live/15034094901029/18800196589372/429518.m3u8
 #EXTINF:-1  tvg-name="Dasinya SPORT " tvg-logo="https://cdn.corenexis.com/f/IR63k40N8Qe.jpeg" group-title="SPORTS",Dasinya Sport
@@ -376,23 +380,23 @@ http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uv2aRxeP2OVDohANfqf-hk/m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS NEWS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS NEWS
 http://lio100.xyz/live/15034094901029/18800196589372/318230.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 1
-http://longsat.xyz/live/delfraissy/aout0023/51811.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325793.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 2
-http://longsat.xyz/live/delfraissy/aout0023/51812.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325794.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 3
-http://longsat.xyz/live/delfraissy/aout0023/51814.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325795.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 4
-http://longsat.xyz/live/delfraissy/aout0023/51815.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325796.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 5
-http://longsat.xyz/live/delfraissy/aout0023/51816.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325797.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 6
-http://longsat.xyz/live/delfraissy/aout0023/51817.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325798.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 7
-http://longsat.xyz/live/delfraissy/aout0023/51818.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325799.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 8
-http://longsat.xyz/live/delfraissy/aout0023/51819.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325800.ts
 #EXTINF:-1  tvg-name="beIN SPORTS 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 9
-http://longsat.xyz/live/delfraissy/aout0023/51820.m3u8
+http://185.191.126.127:8080///////////live/ksa92543/49566522386/325801.ts
 #EXTINF:-1  tvg-name="beIN SPORTS XTRA ESP" tvg-logo="https://i.postimg.cc/0yx8xwcp/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS XTRA ESP
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/T2F56N5L/National-geographic-200.png" group-title="Documentary",National Geographic
