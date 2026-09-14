@@ -521,6 +521,8 @@ https://qatartv.akamaized.net/hls/live/20000611/qtv2/stream_04/index.m3u8
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 #EXTINF:-1  tvg-name="AL Wousta" tvg-logo="https://i.postimg.cc/J4GdBbxL/alwousta.jpg" group-title="Arabic",AL Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_source/chunks.m3u8
+#EXTINF:-1  tvg-name="AL RASHEED TV" tvg-logo="https://i.postimg.cc/J4GdBbxL/alwousta.jpg" group-title="Arabic",AL RASHEED TV
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1  tvg-name="Ajman TV" tvg-logo="https://i.postimg.cc/wBSvMDpD/ajman.jpg" group-title="General",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1  tvg-name="Sharjah TV 1" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="Arabic",Sharjah TV 1
