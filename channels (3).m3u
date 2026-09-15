@@ -55,7 +55,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 http://185.95.184.33:25461/live/120541/20364/132.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="General",Rasan
 http://185.95.184.33:25461/live/120541/20364/94.m3u8
-#EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="General",Komall TV
+#EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="General",Komall TV
 https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="General",Sahar Kurdish
 http://185.95.184.33:25461/live/120541/20364/185.m3u8
@@ -167,7 +167,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 #EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="Religious",MIHRAB-FM
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا  1" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="Zhyannamay Pexember",ژیاننامەی پێغەمبەری خودا  1
+#EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا  1" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="Religious",ژیاننامەی پێغەمبەری خودا  1
 http://archive.org/download/omar-mahmud-faqie-2021-kurdish/1.mp4
 #EXTINF:-1  tvg-name="مامۆستا نورالدین ١" tvg-logo="https://i.postimg.cc/nVv5bpk2/dae0f2c1-362c-457f-a5b6-6d0e04c22aab.png" group-title="Religious",مامۆستا نورالدین ١
 https://tinyurl.com/teraman1
@@ -423,27 +423,27 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 https://cdn.karwan.tv/gewher-sport/index.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/22186.ts
-#EXTINF:-1  tvg-name="beIN SPORTS NEWS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS NEWS
+#EXTINF:-1  tvg-name="b. SPORTS NEWS" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS NEWS
 http://my.atrupo4k.com:8080/live/1c869a00480crania/skfnGEDHBq3coFv/102546.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 1 4K
+#EXTINF:-1  tvg-name="b.1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.1
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391094.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 2 4K
+#EXTINF:-1  tvg-name="b.2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.2
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391095.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 3 4K
+#EXTINF:-1  tvg-name="b.3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.3
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391096.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 4 4K
+#EXTINF:-1  tvg-name="b.4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.4
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391097.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 5 4K
+#EXTINF:-1  tvg-name="b.5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.5
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391098.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 6 4K
+#EXTINF:-1  tvg-name="b.6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.6
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391099.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 7 4K
+#EXTINF:-1  tvg-name="b.7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.7
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391100.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 8 4K
+#EXTINF:-1  tvg-name="b.8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.8
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391101.ts
-#EXTINF:-1  tvg-name="beIN SPORTS 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS 9 4K
+#EXTINF:-1  tvg-name="b.9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="b.9
 http://gazalon1.xyz:80/live/cks43bj7qfsoa/y2w7etojwtdle/391102.ts
-#EXTINF:-1  tvg-name="beIN SPORTS XTRA ESP" tvg-logo="https://i.postimg.cc/0yx8xwcp/673-bein-sports.jpg" group-title="beIN SPORTS",beIN SPORTS XTRA ESP
+#EXTINF:-1  tvg-name="b. SPORTS XTRA ESP" tvg-logo="https://i.postimg.cc/0yx8xwcp/673-bein-sports.jpg" group-title="b. SPORTS XTRA ESP
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/T2F56N5L/National-geographic-200.png" group-title="Documentary",National Geographic
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/6867/index.m3u8
@@ -465,54 +465,6 @@ https://rpn.bozztv.com/gfaith/gfaith-amazing/tracks-v1a1/mono.m3u8
 http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1  tvg-name="WildEarth" tvg-logo="https://i.postimg.cc/XY9JzCtm/Wild-earth-hd-200.png" group-title="Documentary",WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1  tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 1 PREMIERE
-http://clsmarview.club:2082/live/81613297/93571719/1014.ts
-#EXTINF:-1  tvg-name="beIN MOVIES 2 ACTION" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 2 ACTION
-http://clsmarview.club:2082/live/81613297/93571719/1015.ts
-#EXTINF:-1  tvg-name="beIN MOVIES 3 DRAMA" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 3 DRAMA
-http://clsmarview.club:2082/live/81613297/93571719/1016.ts
-#EXTINF:-1  tvg-name="beIN MOVIES 4 FAMILY" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 4 FAMILY
-http://clsmarview.club:2082/live/81613297/93571719/1017.ts
-#EXTINF:-1  tvg-name="beIN SERIES 1" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN SERIES 1
-http://clsmarview.club:2082/live/81613297/93571719/1018.ts
-#EXTINF:-1  tvg-name="beIN SERIES 2" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN SERIES 2
-http://clsmarview.club:2082/live/81613297/93571719/1019.ts
-#EXTINF:-1  tvg-name="beIN DRAMA" tvg-logo="" group-title="Movies",beIN DRAMA
-http://185.191.126.127:8080/live//cks43bj7qfsoa/y2w7etojwtdle/319678.ts
-#EXTINF:-1  tvg-name="Astera Movies" tvg-logo="https://cdn.corenexis.com/f/05hY7iOTUMb.png" group-title="Movies",Astera Movies
-http://185.95.184.33:25461/live/120541/20364/172.m3u8
-#EXTINF:-1  tvg-name="Astera Family" tvg-logo="https://cdn.corenexis.com/f/Sfw2BbO523I.png" group-title="Movies",Astera Family
-http://185.95.184.33:25461/live/120541/20364/175.m3u8
-#EXTINF:-1  tvg-name="Astera Show" tvg-logo="https://cdn.corenexis.com/f/J06dgjkb36E.png" group-title="Movies",Astera Show
-http://185.95.184.33:25461/live/120541/20364/173.m3u8 
-#EXTINF:-1  tvg-name="AVA Family" tvg-logo="https://i.postimg.cc/zfCKvKrz/ava-family-online.jpg" group-title="Movies",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1  tvg-name="AVA SERIES" tvg-logo="https://i.postimg.cc/zfCKvKrz/ava-family-online.jpg" group-title="Movies",AVA SERIES
-https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-name="Barin Movies" tvg-logo="https://i.postimg.cc/pdML1k2b/Barin-Movie-200.jpg" group-title="Movies",Barin Movies
-http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
-#EXTINF:-1  tvg-name="Bnar Movies" tvg-logo="https://i.postimg.cc/tg1Wzws9/Bnar-Movie-200.png" group-title="Movies",NEW Movies
-http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
-#EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
-http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-#EXTINF:-1  tvg-name="Haikyu 1-1" tvg-logo="" group-title="Series",Haikyu 1-1
-https://cdn.jumpshare.com/preview/VXiIJeHBWoZDYl-8euBcXPkdcg1YjI8aUPI1x75GY6SFJcQ9RkulskGaAVY8qoKLDgTDZhjvCjyn9Njk4ELM9MWR27AedUDF9agNuv8LPF2SUIMbKw14zia-K5KLSsV8Sf90IYNahLUhIS5elnhc8W6yjbN-I2pg_cnoHs_AmgI.mp4
-#EXTINF:-1  tvg-name="Haikyu 1-2" tvg-logo="" group-title="Series",Haikyu 1-2
-https://cdn.jumpshare.com/preview/V8Tc4EcTOUlSRwTLjBWYkeuQbgOuqmUEq-5EeY8VuCgWfVE1fcX2Lo_rUmYldhJpNdsHDXZNC2qU7-ycT7YY_YzuxjBEaEv6MJScv0leOp-HoyLUanNrhs8GRihBwc-3sDH0kraKaJXwJhoQLR8bj26yjbN-I2pg_cnoHs_AmgI.mp4
-#EXTINF:-1  tvg-name="Haikyu 1-3" tvg-logo="" group-title="Series",Haikyu 1-3
-https://cdn.jumpshare.com/preview/AYKSgJkXn77b7UDCgZ6KB2O9NSvDqeJh966xHT6iqRaM04f_n1a3ttQwq43Je1PJdxhypF6b4nR9YSdS1x5H2DBphx9LmDwUdqXJzgE6rBAfVJqHgV7AxcmyBQ87I122lD151vmpNPNqbXNovKcnB_0TT5kp9FzXTNMoYG6cKB8.mp4
-#EXTINF:-1  tvg-name="Haikyu 1-4" tvg-logo="" group-title="Series",Haikyu 1-4
-https://stream.kurdsubtitle.net/videos/bf571b166961ff8637edc0200bab1ffc8de215e96eedd284aaa2acaca18fc2b9b9f9c955b9b2756db643/video.mp4?sid=73aecce3-9b34-4d69-b377-26fbca5f4b2d&exp=1787492159&sig=Ie5PxHs-NcFr70K2F5CKFb0rGw9FcW1qsGihfs1i_gM
-#EXTINF:-1  tvg-name="Haikyu 1-5" tvg-logo="" group-title="Series",Haikyu 1-5
-https://stream.kurdsubtitle.net/videos/755eda8a78f181892fdf0cc754607f7b28be8377cc7f0108a9898fe4beac2b57316633723ddcab3a9ae1/video.mp4?sid=0e9c639e-6fd3-41cd-a52f-16533b85a1fb&exp=1787492213&sig=qyxSUKvEXUc1zrgb5tg7QkN5hB_XxGoeohHJDk31wwY
-#EXTINF:-1  tvg-name="Chicken Run 1" tvg-logo="" group-title="Series",Chicken Run 1
-https://stream.kurdsubtitle.net/videos/e699ffdb25eb129cb0f1613d54028fd60004d58a708bb62783fcd36eec89295eab140bedcb453244ec3c/video.mp4?sid=9a349d9c-2cf8-4529-a499-9ff549604c73&exp=1787494856&sig=3bKXe7VEiFet0fFZU250epbUqELuKlDHRiBxSVOysm0
-#EXTINF:-1  tvg-name="Chicken Run 2" tvg-logo="" group-title="Series",Chicken Run 2
-https://stream.kurdsubtitle.net/videos/dd94ba71554a92d9f7a36825400279e0d308d5f7ff7d746d6d4ca7c7fb7ea878ad222370f46717298cde/video.mp4?sid=7b09b220-112e-4ffb-9cc6-c5b276d7a628&exp=1787495748&sig=i_LKhoYu8C04XzACCqgHMAKIdgFukvdvvxDVFvBws0A
-#EXTINF:-1  tvg-name="Minions & Monsters" tvg-logo="" group-title="Series",Minions & Monsters
-https://stream.kurdsubtitle.net/videos/5c55de753990889267cac841f30896f4c514cb4566136e3a2ad5db3df273e2f955874debcf1467bf12b9/video.mp4?sid=5520ac81-fbce-46d7-a76d-5d3800957d31&exp=1787501646&sig=E3CNym594tusGG2gni-hVZzFiMWwgoK-rYwMgYacaH8
-#EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="Series",Toy Story 3
-https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
 #EXTINF:-1  tvg-name="QATAR TV 1" tvg-logo="https://i.postimg.cc/jjyvKcXS/QATAR-TV-1.jpg" group-title="Arabic",QATAR TV 1
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_02/index.m3u8
 #EXTINF:-1  tvg-name="QATAR TV 2" tvg-logo="https://i.postimg.cc/jjyvKcXS/QATAR-TV-1.jpg" group-title="Arabic",QATAR TV 2
@@ -533,6 +485,8 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1  tvg-name="Sharjah Karbae" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="Arabic",Sharjah Karbae
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8
+#EXTINF:-1  tvg-name="MBC 1" tvg-logo="" group-title="Arabic",MBC 1
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/manifest/video/468p750kbps/video.m3u8
 #EXTINF:-1 tvg-name="IRIB TV1" tvg-logo="https://i.imgur.com/rad9Guw.png" tvg-id="IRIB1.ir" tvg-chno="1" tvg-country="IR" group-title="Iran",IRIB TV1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="IRIB TV2" tvg-logo="https://i.imgur.com/FKiTd3O.png" tvg-id="IRIB2.ir" tvg-chno="2" tvg-country="IR" group-title="Iran",IRIB TV2
@@ -723,3 +677,51 @@ https://archive.org/download/omar-mahmud-faqie-2021-kurdish/28.mp4
 https://archive.org/download/omar-mahmud-faqie-2021-kurdish/29.mp4
 #EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا 30" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="Zhyannamay Pexember",ژیاننامەی پێغەمبەری خودا  30
 https://archive.org/download/omar-mahmud-faqie-2021-kurdish/30.mp4
+#EXTINF:-1  tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 1 PREMIERE
+http://clsmarview.club:2082/live/81613297/93571719/1014.ts
+#EXTINF:-1  tvg-name="beIN MOVIES 2 ACTION" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 2 ACTION
+http://clsmarview.club:2082/live/81613297/93571719/1015.ts
+#EXTINF:-1  tvg-name="beIN MOVIES 3 DRAMA" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 3 DRAMA
+http://clsmarview.club:2082/live/81613297/93571719/1016.ts
+#EXTINF:-1  tvg-name="beIN MOVIES 4 FAMILY" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 4 FAMILY
+http://clsmarview.club:2082/live/81613297/93571719/1017.ts
+#EXTINF:-1  tvg-name="beIN SERIES 1" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN SERIES 1
+http://clsmarview.club:2082/live/81613297/93571719/1018.ts
+#EXTINF:-1  tvg-name="beIN SERIES 2" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN SERIES 2
+http://clsmarview.club:2082/live/81613297/93571719/1019.ts
+#EXTINF:-1  tvg-name="beIN DRAMA" tvg-logo="" group-title="Movies",beIN DRAMA
+http://185.191.126.127:8080/live//cks43bj7qfsoa/y2w7etojwtdle/319678.ts
+#EXTINF:-1  tvg-name="Astera Movies" tvg-logo="https://cdn.corenexis.com/f/05hY7iOTUMb.png" group-title="Movies",Astera Movies
+http://185.95.184.33:25461/live/120541/20364/172.m3u8
+#EXTINF:-1  tvg-name="Astera Family" tvg-logo="https://cdn.corenexis.com/f/Sfw2BbO523I.png" group-title="Movies",Astera Family
+http://185.95.184.33:25461/live/120541/20364/175.m3u8
+#EXTINF:-1  tvg-name="Astera Show" tvg-logo="https://cdn.corenexis.com/f/J06dgjkb36E.png" group-title="Movies",Astera Show
+http://185.95.184.33:25461/live/120541/20364/173.m3u8 
+#EXTINF:-1  tvg-name="AVA Family" tvg-logo="https://i.postimg.cc/zfCKvKrz/ava-family-online.jpg" group-title="Movies",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1  tvg-name="AVA SERIES" tvg-logo="https://i.postimg.cc/zfCKvKrz/ava-family-online.jpg" group-title="Movies",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-name="Barin Movies" tvg-logo="https://i.postimg.cc/pdML1k2b/Barin-Movie-200.jpg" group-title="Movies",Barin Movies
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1  tvg-name="Bnar Movies" tvg-logo="https://i.postimg.cc/tg1Wzws9/Bnar-Movie-200.png" group-title="Movies",NEW Movies
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1  tvg-name="Haikyu 1-1" tvg-logo="" group-title="Series",Haikyu 1-1
+https://cdn.jumpshare.com/preview/VXiIJeHBWoZDYl-8euBcXPkdcg1YjI8aUPI1x75GY6SFJcQ9RkulskGaAVY8qoKLDgTDZhjvCjyn9Njk4ELM9MWR27AedUDF9agNuv8LPF2SUIMbKw14zia-K5KLSsV8Sf90IYNahLUhIS5elnhc8W6yjbN-I2pg_cnoHs_AmgI.mp4
+#EXTINF:-1  tvg-name="Haikyu 1-2" tvg-logo="" group-title="Series",Haikyu 1-2
+https://cdn.jumpshare.com/preview/V8Tc4EcTOUlSRwTLjBWYkeuQbgOuqmUEq-5EeY8VuCgWfVE1fcX2Lo_rUmYldhJpNdsHDXZNC2qU7-ycT7YY_YzuxjBEaEv6MJScv0leOp-HoyLUanNrhs8GRihBwc-3sDH0kraKaJXwJhoQLR8bj26yjbN-I2pg_cnoHs_AmgI.mp4
+#EXTINF:-1  tvg-name="Haikyu 1-3" tvg-logo="" group-title="Series",Haikyu 1-3
+https://cdn.jumpshare.com/preview/AYKSgJkXn77b7UDCgZ6KB2O9NSvDqeJh966xHT6iqRaM04f_n1a3ttQwq43Je1PJdxhypF6b4nR9YSdS1x5H2DBphx9LmDwUdqXJzgE6rBAfVJqHgV7AxcmyBQ87I122lD151vmpNPNqbXNovKcnB_0TT5kp9FzXTNMoYG6cKB8.mp4
+#EXTINF:-1  tvg-name="Haikyu 1-4" tvg-logo="" group-title="Series",Haikyu 1-4
+https://stream.kurdsubtitle.net/videos/bf571b166961ff8637edc0200bab1ffc8de215e96eedd284aaa2acaca18fc2b9b9f9c955b9b2756db643/video.mp4?sid=73aecce3-9b34-4d69-b377-26fbca5f4b2d&exp=1787492159&sig=Ie5PxHs-NcFr70K2F5CKFb0rGw9FcW1qsGihfs1i_gM
+#EXTINF:-1  tvg-name="Haikyu 1-5" tvg-logo="" group-title="Series",Haikyu 1-5
+https://stream.kurdsubtitle.net/videos/755eda8a78f181892fdf0cc754607f7b28be8377cc7f0108a9898fe4beac2b57316633723ddcab3a9ae1/video.mp4?sid=0e9c639e-6fd3-41cd-a52f-16533b85a1fb&exp=1787492213&sig=qyxSUKvEXUc1zrgb5tg7QkN5hB_XxGoeohHJDk31wwY
+#EXTINF:-1  tvg-name="Chicken Run 1" tvg-logo="" group-title="Series",Chicken Run 1
+https://stream.kurdsubtitle.net/videos/e699ffdb25eb129cb0f1613d54028fd60004d58a708bb62783fcd36eec89295eab140bedcb453244ec3c/video.mp4?sid=9a349d9c-2cf8-4529-a499-9ff549604c73&exp=1787494856&sig=3bKXe7VEiFet0fFZU250epbUqELuKlDHRiBxSVOysm0
+#EXTINF:-1  tvg-name="Chicken Run 2" tvg-logo="" group-title="Series",Chicken Run 2
+https://stream.kurdsubtitle.net/videos/dd94ba71554a92d9f7a36825400279e0d308d5f7ff7d746d6d4ca7c7fb7ea878ad222370f46717298cde/video.mp4?sid=7b09b220-112e-4ffb-9cc6-c5b276d7a628&exp=1787495748&sig=i_LKhoYu8C04XzACCqgHMAKIdgFukvdvvxDVFvBws0A
+#EXTINF:-1  tvg-name="Minions & Monsters" tvg-logo="" group-title="Series",Minions & Monsters
+https://stream.kurdsubtitle.net/videos/5c55de753990889267cac841f30896f4c514cb4566136e3a2ad5db3df273e2f955874debcf1467bf12b9/video.mp4?sid=5520ac81-fbce-46d7-a76d-5d3800957d31&exp=1787501646&sig=E3CNym594tusGG2gni-hVZzFiMWwgoK-rYwMgYacaH8
+#EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="Series",Toy Story 3
+https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
