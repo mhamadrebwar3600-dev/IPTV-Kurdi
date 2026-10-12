@@ -1,7 +1,24 @@
-import re from flask import Flask, redirect, jsonify, request
+import os import re from flask import Flask, redirect, jsonify, request
 app = Flask(name)
-def parse_m3u(file_path): channels = [] current_channel = {} with open(file_path, 'r', encoding='utf-8', errors='ignore') as f: for line in f: line = line.strip() if line.startswith('#EXTINF:'): logo_match = re.search(r'tvg-logo="([^"]*)"', line) name = line.split(',')[-1] current_channel = { 'name': name, 'logo': logo_match.group(1) if logo_match else '', } elif line and not line.startswith('#'): current_channel['url'] = line channels.append(current_channel) current_channel = {} return channels
-CHANNELS = parse_m3u('playlist.m3u')
+دیاریکردنی ڕێڕەوی ڕاستەقینەی فایلی m3u
+BASE_DIR = os.path.dirname(os.path.abspath(file)) M3U_PATH = os.path.join(BASE_DIR, 'playlist.m3u')
+def parse_m3u(file_path): channels = [] current_channel = {} if not os.path.exists(file_path): print(f"Error: {file_path} not found!") return channels
+with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+    for line in f:
+        line = line.strip()
+        if line.startswith('#EXTINF:'):
+            logo_match = re.search(r'tvg-logo="([^"]*)"', line)
+            name = line.split(',')[-1]
+            current_channel = {
+                'name': name,
+                'logo': logo_match.group(1) if logo_match else '',
+            }
+        elif line and not line.startswith('#'):
+            current_channel['url'] = line
+            channels.append(current_channel)
+            current_channel = {}
+return channels
+CHANNELS = parse_m3u(M3U_PATH)
 @app.route('/player_api.php') def player_api(): username = request.args.get('username') password = request.args.get('password')
 if username == 'oneplus' and password == 'onekids':
     user_info = {
@@ -40,4 +57,4 @@ if username == 'oneplus' and password == 'onekids':
     return jsonify(user_info)
 return jsonify({"user_info": {"auth": 0}})
 @app.route('/live/<username>/<password>/int:stream_id.ts') def get_stream(username, password, stream_id): if username == 'oneplus' and password == 'onekids': if 0 < stream_id <= len(CHANNELS): target_url = CHANNELS[stream_id - 1]['url'] return redirect(target_url) return "Unauthorized", 401
-if name == 'main': app.run(host='0.0.0.0', port=5000)
+if name == 'main': port = int(os.environ.get('PORT', 5000)) app.run(host='0.0.0.0', port=port)
