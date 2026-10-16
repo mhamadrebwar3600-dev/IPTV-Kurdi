@@ -129,7 +129,7 @@ https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/chunklist_w194180921
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258436.ts
 #EXTINF:-1  tvg-name="JOJO Mama" tvg-logo="https://i.postimg.cc/FFVYysc3/jojomama.jpg" group-title="کوردستان",JOJO Mama
 http://max4kcdn.com:8080/live/5161699711/3840575058/119569.m3u8
-#EXTINF:-1  tvg-name="ڕێوی و کەڵەشێر" tvg-logo="" group-title="کوردستان",ڕێوی و کەڵەشێر
+#EXTINF:-1  tvg-name="ڕێوی و کەڵەشێر" tvg-logo="" group-title="رێوی و کەلەشێر",کوردستان
 https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 #EXTINF:-1  tvg-name="Qallam Kids" tvg-logo="https://i.postimg.cc/Rh4qkjrT/qallam-kids.png" group-title="کوردستان",Qallam Kids
 http://max4kcdn.com:8080/live/5161699711/3840575058/141651.m3u8
@@ -210,7 +210,6 @@ https://live.jintv.org/medialive/jintv.m3u8
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="هەواڵ",Channel 8
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-
 #EXTINF:-1  tvg-name="AVA Media" tvg-logo="https://i.postimg.cc/pVQ64Jcd/ava-media.jpg" group-title="هەواڵ",AVA Media
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1  tvg-name="Kurdsat News" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="هەواڵ",Kurdsat News
@@ -249,7 +248,6 @@ https://indexforce.com/tvhighres/mystream/playlist.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="TRT World" tvg-logo="https://cdn.corenexis.com/f/IOPrYUM5TUi.jpeg" group-title="هەواڵ",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
-
 #EXTINF:-1  tvg-name="BBC News" tvg-logo="https://cdn.corenexis.com/f/IOPrYUM5TUi.jpeg" group-title="هەواڵ",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="هەواڵ",NRT
