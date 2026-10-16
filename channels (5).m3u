@@ -153,7 +153,6 @@ https://avr.host247.net/live/Mix-kurdy/tracks-v1a1/mono.m3u8
 https://183.bozztv.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="کوردستان",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1  tvg-name="GK +" tvg-logo="https://i.postimg.cc/152GxXJq/gk.png" group-title="کوردستان",GK +
 https://live.host247.net/gk/gkplus/media_w513376264_49067.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
