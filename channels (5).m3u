@@ -319,7 +319,7 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="ئاینی",test
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1  tvg-name="ONE Kids" tvg-logo="https://i.postimg.cc/HLPJrGWF/one-kids.png" group-title="مناڵان",ONE Kids
-https://183.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-onekids/onekids/chunks.m3u8
 #EXTINF:-1  tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="مناڵان",Afarin Kids
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="Afarin Baxcha" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="مناڵان",Afarin Baxcha
