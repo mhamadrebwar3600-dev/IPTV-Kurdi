@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="کوردستان",Rudaw
+#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/JhFGDSM0/rudaw.png" group-title="کوردستان",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="کوردستان",Channel 8
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
@@ -18,7 +18,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 #EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/LX95N38N/kalapur.png" group-title="کوردستان",Kalapur
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258450.ts
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
-http://43.250.127.211/live/893963693051/bHksg68fWnri8/807722.m3u8?token=elkhzcma5pqf639&m=1&mtplay=216712297a7vanpdt0szuxvg6td77f5h8
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601452.ts
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
 https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="کوردستان",Payam
@@ -52,7 +52,7 @@ http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807753.ts
 #EXTINF:-1  tvg-name="ZED +" tvg-logo="https://i.postimg.cc/JnJcSdGS/zed.png" group-title="کوردستان",ZED +
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807752.ts
 #EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807721.ts
+https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="BMC TV" tvg-logo="https://i.postimg.cc/GtcVv2Rm/bmc.png" group-title="کوردستان",BMC TV
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807613.ts
 #EXTINF:-1  tvg-name="NERGZ" tvg-logo="https://i.postimg.cc/mZ1Mv8d3/nergzzzz.jpg" group-title="کوردستان",NERGZ
@@ -75,11 +75,11 @@ http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="کوردستان",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
-#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="کوردستان",Rudaw
+#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/JhFGDSM0/rudaw.png" group-title="کوردستان",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1  tvg-name="ASTERA Cltur" tvg-logo="https://i.postimg.cc/y60xh5Qy/astera-folklor.png" group-title="کوردستان",‌ASTERA Cltur
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601480.ts
-#EXTINF:-1  tvg-name="Znar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
+#EXTINF:-1  tvg-name="Zhttp://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601480.tsnar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807755.ts
 #EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="کوردستان",KHAK TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
