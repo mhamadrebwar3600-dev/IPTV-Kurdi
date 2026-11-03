@@ -17,7 +17,7 @@ https://183.bozztv.com/giatv/giatv-onekids/onekids/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/LX95N38N/kalapur.png" group-title="کوردستان",Kalapur
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258450.ts
-#EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.pn" group-title="کوردستان",Rasan
+#EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
 http://43.250.127.211/live/893963693051/bHksg68fWnri8/807722.m3u8?token=elkhzcma5pqf639&m=1&mtplay=216712297a7vanpdt0szuxvg6td77f5h8
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
 https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
