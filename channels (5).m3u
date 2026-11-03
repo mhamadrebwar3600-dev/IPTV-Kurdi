@@ -98,7 +98,7 @@ https://live-aburayhan1103.telewebion.net/ek/kordestan/live/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="کوردستان",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/FKF0TH4N/nrt-sport.png" group-title="کوردستان",NRT SPORT
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807709.ts
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601396.ts
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="کوردستان",AVA SPORT
 http://max4kcdn.com:8080/live/5161699711/3840575058/141740.m3u8
 #EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="کوردستان",ASTERA SPORT
@@ -398,7 +398,7 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1  tvg-name="trtcocuk" tvg-logo="https://i.postimg.cc/j5HprcXp/TRT-Chuchak-200.png" group-title="مناڵان",TRT cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/FKF0TH4N/nrt-sport.png" group-title="وەرزشی",NRT SPORT
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807709.ts
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601396.ts
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="وەرزشی",AVA SPORT
 http://max4kcdn.com:8080/live/5161699711/3840575058/141740.m3u8
 #EXTINF:-1  tvg-name="Thamanyah 1 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 1 4K
