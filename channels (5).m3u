@@ -165,6 +165,22 @@ https://avr.host247.net/live/Mix-kurdy/tracks-v1a1/mono.m3u8
 https://183.bozztv.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="کوردستان",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-name="MMN SHOW" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN SHOW
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN MOVIES
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN ACTION" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN ACTION
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN KIDS" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN DOCU" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN DOCU
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1  tvg-name="MMN DRAMA" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN DRAMA
+http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 #EXTINF:-1  tvg-name="GK +" tvg-logo="https://i.postimg.cc/152GxXJq/gk.png" group-title="کوردستان",GK +
 https://live.host247.net/gk/gkplus/media_w513376264_49067.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
