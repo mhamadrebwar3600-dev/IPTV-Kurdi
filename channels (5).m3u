@@ -128,7 +128,7 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 #EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="کوردستان",NRT 4
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601419.ts
 #EXTINF:-1  tvg-name="Kalhur TV" tvg-logo="https://i.postimg.cc/d0X3dCWn/kalhur.png" group-title="کوردستان",Kalhur TV
-https://live20.bozztv.com/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8?onesmart
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
 https://speda2.site/upload/images/spedadrama.m3u8
 #EXTINF:-1  tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="کوردستان",Afarin Kids
