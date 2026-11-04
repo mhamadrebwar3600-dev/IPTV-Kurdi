@@ -27,6 +27,8 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 https://speda1.site/upload/images/spedahd.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="کوردستان",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="کوردستان",Noor TV
+https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="کوردستان",TV Sunnat
 https://live20.bozztv.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="کوردستان",Peshang
@@ -267,6 +269,8 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143496.ts
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143497.ts
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="ئاینی",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="کوردستان",Noor TV
+https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",TV Sunnat
 https://live20.bozztv.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="ئاینی",Dangi Quran-Slemani
