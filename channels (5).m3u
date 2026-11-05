@@ -93,6 +93,8 @@ http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="JUDII" tvg-logo="https://i.postimg.cc/nLbdvzK1/judii.png" group-title="کوردستان",JUDII
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601507.ts
+#EXTINF:-1  tvg-name="DUNYA TV" tvg-logo="https://i.postimg.cc/CKk9ztcj/dunya.png" group-title="کوردستان",DUNYA TV
+http://dunyahd.ddns.net/live/DunyaHd/index.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="کوردستان",Sahar Kurdish
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601430.ts
 #EXTINF:-1  tvg-name="IRIB Kordestan" tvg-logo="https://i.postimg.cc/gjXRSymq/kordestan.png" group-title="کوردستان",IRIB Kordestan
