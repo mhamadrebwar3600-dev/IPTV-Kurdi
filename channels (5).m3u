@@ -883,6 +883,10 @@ http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
 #EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="Series",Toy Story 3
 https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
+#EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="Series",Tangled
+https://cdn.video.krd/video/cmevw5czj00rulb0jcnu2lfv8/content.m3u8
+#EXTINF:-1  tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="Series",Migration
+https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
 #EXTINF:-1  tvg-name="Chicken Run 1" tvg-logo="" group-title="Series",Chicken Run 1
 https://stream.kurdsubtitle.net/videos/e699ffdb25eb129cb0f1613d54028fd60004d58a708bb62783fcd36eec89295eab140bedcb453244ec3c/video.mp4?sid=9a349d9c-2cf8-4529-a499-9ff549604c73&exp=1787494856&sig=3bKXe7VEiFet0fFZU250epbUqELuKlDHRiBxSVOysm0
 #EXTINF:-1  tvg-name="Chicken Run 2" tvg-logo="" group-title="Series",Chicken Run 2
