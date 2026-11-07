@@ -881,17 +881,13 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 #EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-#EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="Series",Toy Story 3
+#EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="فیلم و کارتۆن",Toy Story 3
 https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
-#EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="Series",Tangled
+#EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="فیلم و کارتۆن",Tangled
 https://cdn.video.krd/video/cmevw5czj00rulb0jcnu2lfv8/content.m3u8
-#EXTINF:-1  tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="Series",Migration
+#EXTINF:-1  tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="فیلم و کارتۆن",Migration
 https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
-#EXTINF:-1  tvg-name="Chicken Run 1" tvg-logo="" group-title="Series",Chicken Run 1
-https://stream.kurdsubtitle.net/videos/e699ffdb25eb129cb0f1613d54028fd60004d58a708bb62783fcd36eec89295eab140bedcb453244ec3c/video.mp4?sid=9a349d9c-2cf8-4529-a499-9ff549604c73&exp=1787494856&sig=3bKXe7VEiFet0fFZU250epbUqELuKlDHRiBxSVOysm0
-#EXTINF:-1  tvg-name="Chicken Run 2" tvg-logo="" group-title="Series",Chicken Run 2
-https://stream.kurdsubtitle.net/videos/dd94ba71554a92d9f7a36825400279e0d308d5f7ff7d746d6d4ca7c7fb7ea878ad222370f46717298cde/video.mp4?sid=7b09b220-112e-4ffb-9cc6-c5b276d7a628&exp=1787495748&sig=i_LKhoYu8C04XzACCqgHMAKIdgFukvdvvxDVFvBws0A
-#EXTINF:-1  tvg-name="Minions & Monsters" tvg-logo="" group-title="Series",Minions & Monsters
-https://stream.kurdsubtitle.net/videos/5c55de753990889267cac841f30896f4c514cb4566136e3a2ad5db3df273e2f955874debcf1467bf12b9/video.mp4?sid=5520ac81-fbce-46d7-a76d-5d3800957d31&exp=1787501646&sig=E3CNym594tusGG2gni-hVZzFiMWwgoK-rYwMgYacaH8
-#EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="Series",Toy Story 3
-https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
+#EXTINF:-1  tvg-name="Shrek" tvg-logo="https://image.tmdb.org/t/p/w500/EKERKucZeBrkrR8xLDTkr5FeDc.jpg" group-title="فیلم و کارتۆن",Shrek
+https://cdn.video.krd/video/cm9db9fxp0037lb0l6zexc7v4/content.m3u8
+#EXTINF:-1  tvg-name="Mutiny 2026" tvg-logo="https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg" group-title="فیلم و کارتۆن",Mutiny 2026
+https://cdn.video.krd/video/cmt2zvi7v0086nx0ko14nivo1/content.m3u8
