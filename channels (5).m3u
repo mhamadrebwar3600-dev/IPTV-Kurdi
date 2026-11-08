@@ -31,6 +31,10 @@ http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="کوردستان",TV Sunnat
 https://live20.bozztv.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
+#EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="کوردستان",MIHRAB
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="کوردستان",SADA TV
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="کوردستان",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
@@ -87,8 +91,6 @@ http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807755.ts
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="کوردستان",ONE Plus
 https://183.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
-#EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="کوردستان",MIHRAB
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 #EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="کوردستان",MIHRAB-FM
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="JUDII" tvg-logo="https://i.postimg.cc/nLbdvzK1/judii.png" group-title="کوردستان",JUDII
@@ -433,28 +435,30 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/646086.ts
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/646087.ts
 #EXTINF:-1  tvg-name="Thamanyah 3 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 3 4K
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/646088.ts
+#EXTINF:-1  tvg-name="IRAQIA SPORT" tvg-logo="https://i.postimg.cc/SxCgBs3J/iraq-sport.png" group-title="وەرزشی",IRAQIA SPORT
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1  tvg-name="b-hd" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-hd
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/19515.ts
 #EXTINF:-1  tvg-name="b-sports 4k" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 4k
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/593209.ts
-#EXTINF:-1  tvg-name="b-sports 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 1
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/677012.ts
-#EXTINF:-1  tvg-name="b-sports 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 2
-http://max4kcdn.com:8080/live/5161699711/3840575058/182765.m3u8
-#EXTINF:-1  tvg-name="b-sports 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 3
-http://max4kcdn.com:8080/live/5161699711/3840575058/182766.m3u8
-#EXTINF:-1  tvg-name="b-sports 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 4
-http://max4kcdn.com:8080/live/5161699711/3840575058/182767.m3u8
-#EXTINF:-1  tvg-name="b-sports 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 5
-http://max4kcdn.com:8080/live/5161699711/3840575058/182768.m3u8
-#EXTINF:-1  tvg-name="b-sports 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 6
-http://max4kcdn.com:8080/live/5161699711/3840575058/182769.m3u8
-#EXTINF:-1  tvg-name="b-sports 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 7
-http://max4kcdn.com:8080/live/5161699711/3840575058/182770.m3u8
-#EXTINF:-1  tvg-name="b-sports 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 8
-http://max4kcdn.com:8080/live/5161699711/3840575058/182771.m3u8
-#EXTINF:-1  tvg-name="b-sports 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 9
-http://max4kcdn.com:8080/live/5161699711/3840575058/182772.m3u8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084994.ts
+#EXTINF:-1  tvg-name="beIN Sports 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 1
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084987.ts
+#EXTINF:-1  tvg-name="beIN Sports 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 2
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084990.ts
+#EXTINF:-1  tvg-name="beIN Sports 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 3
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084992.ts
+#EXTINF:-1  tvg-name="beIN Sports 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 4
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036732.ts
+#EXTINF:-1  tvg-name="beIN Sports 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 5
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036733.ts
+#EXTINF:-1  tvg-name="beIN Sports 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 6
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036734.ts
+#EXTINF:-1  tvg-name="beIN Sports 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 7
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084997.ts
+#EXTINF:-1  tvg-name="beIN Sports 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084991.ts
+#EXTINF:-1  tvg-name="beIN Sports 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 9
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036737.ts
 #EXTINF:-1  tvg-name="b-sports xtra" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="وەرزشی",ASTERA SPORT
@@ -521,8 +525,6 @@ http://94.130.32.19:8080/sporttv2/tracks-v1a1/mono.m3u8
 http://94.130.32.19:8080/sporttv3/tracks-v1a1/mono.m3u8                  
 #EXTINF:-1  tvg-name="SPORT TV 4" tvg-logo="https://i.postimg.cc/4dJ2bg8W/sporttv.gif" group-title="وەرزشی",SPORT TV 4
 http://94.130.32.19:8080/sporttv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="IRAQIA SPORT" tvg-logo="https://i.postimg.cc/SxCgBs3J/iraq-sport.png" group-title="وەرزشی",IRAQIA SPORT
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1  tvg-name="SEE SPORT 1" tvg-logo="https://i.postimg.cc/J4jf63ww/see-sport-1.png" group-title="وەرزشی",SEE SPORT 1
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/689914.m3u8
 #EXTINF:-1  tvg-name="SEE SPORT 2" tvg-logo="https://i.postimg.cc/jSLzqcRk/see-sport-2.png" group-title="وەرزشی",SEE SPORT 2
@@ -536,29 +538,29 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1  tvg-name="IRIB 4K UHD" tvg-logo="https://cdn.corenexis.com/f/p5lOsjCuhWc.png" group-title="وەرزشی",IRIB 4K UHD
 https://live-aburayhan1113.telewebion.ir/ek/faratar/live/720p/index.m3u8
 #EXTINF:-1  tvg-name="ALWAN SPORT 1" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 1
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641605
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091933.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 2" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 2
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641606
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091934.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 3" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 3
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641607
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091935.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 4" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 4
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641608
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091936.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 5" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 5
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641609
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091937.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 6" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 6
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641610
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091938.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 7" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 7
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641611
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091939.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 8" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 8
-http://ts1.supports.top:80/004917616983461/y4rjwh8f31/1641612
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091940.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 9" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 9
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433741.m3u8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091941.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT 10" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT 10
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433742.m3u8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091942.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT FF1" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT FF1
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433743.m3u8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091944.ts
 #EXTINF:-1  tvg-name="ALWAN SPORT UFC" tvg-logo="https://i.postimg.cc/nLL0CkMz/alwaan.jpg" group-title="وەرزشی",ALWAN SPORT UFC
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433745.m3u8
+http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1091943.ts
 #EXTINF:-1  tvg-name="AD SPORT 1" tvg-logo="https://i.postimg.cc/tTyKBgtp/abu-dhabi-sports-logo-png-seeklogo-501123.png" group-title="وەرزشی",AD SPORT 1
 http://lio100.xyz/live/15034094901029/18800196589372/326053.m3u8
 #EXTINF:-1  tvg-name="AD SPORT 2" tvg-logo="https://i.postimg.cc/tTyKBgtp/abu-dhabi-sports-logo-png-seeklogo-501123.png" group-title="وەرزشی",AD SPORT 2
