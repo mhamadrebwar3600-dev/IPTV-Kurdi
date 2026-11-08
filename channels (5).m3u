@@ -881,6 +881,18 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 #EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E01)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E01)
+https://cdn.video.krd/video/cmchp5j8r0021lb0j55tm9x4o/content.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E02)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E02)
+https://cdn.video.krd/video/cmcenwl4p0015lb0jp71p2fg5/content.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E03)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E03)
+https://cdn.video.krd/video/cmcepbzfu0019lb0j9ermnmaz/content.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E04)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E04)
+https://cdn.video.krd/video/cmceqywpt001dlb0j94l2dbhi/content.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E05)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E05)
+https://cdn.video.krd/video/cmceq1rge001blb0jqcp5l7t8/content.m3u8
+#EXTINF:-1  tvg-name="Squid Game (S03-E06)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E06)
+https://cdn.video.krd/video/cmcesf61k001flb0jlwms7zrf/content.m3u8
 #EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="فیلم و کارتۆن",Toy Story 3
 https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
 #EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="فیلم و کارتۆن",Tangled
