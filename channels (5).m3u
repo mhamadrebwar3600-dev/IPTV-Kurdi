@@ -366,7 +366,7 @@ https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/chunklist_w194180921
 #EXTINF:-1  tvg-name="Jeem" tvg-logo="https://i.postimg.cc/pL3xJx6W/1731608729.png" group-title="مناڵان",Jeem
 http://max4kcdn.com:8080/live/5161699711/3840575058/181289.m3u8
 #EXTINF:-1  tvg-name="Baraem" tvg-logo="https://i.postimg.cc/76kkj9DC/baraem.jpg" group-title="مناڵان",Baraem
-http://max4kcdn.com:8080/live/5161699711/3840575058/181310.m3u8
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/2870
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="مناڵان",test
 https://183.bozztv.com/giatv/giatv-onekids/onekids/chunks.m3u8
 #EXTINF:-1  tvg-name="5 KIDS" tvg-logo="" group-title="مناڵان",5 KIDS
@@ -442,21 +442,21 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/19515.ts
 #EXTINF:-1  tvg-name="b-sports 4k" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 4k
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084994.ts
 #EXTINF:-1  tvg-name="beIN Sports 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 1
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084987.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167699
 #EXTINF:-1  tvg-name="beIN Sports 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 2
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084990.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167700
 #EXTINF:-1  tvg-name="beIN Sports 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 3
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084992.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167701
 #EXTINF:-1  tvg-name="beIN Sports 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 4
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036732.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167702
 #EXTINF:-1  tvg-name="beIN Sports 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 5
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1036733.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167703
 #EXTINF:-1  tvg-name="beIN Sports 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 6
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084999.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167704
 #EXTINF:-1  tvg-name="beIN Sports 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 7
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084997.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167705
 #EXTINF:-1  tvg-name="beIN Sports 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 8
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084991.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/167706
 #EXTINF:-1  tvg-name="beIN Sports 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 9
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1085000.ts
 #EXTINF:-1  tvg-name="b-sports xtra" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports xtra
@@ -853,6 +853,8 @@ https://archive.org/download/omar-mahmud-faqie-2021-kurdish/28.mp4
 https://archive.org/download/omar-mahmud-faqie-2021-kurdish/29.mp4
 #EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا 30" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="مامۆستامحمد",ژیاننامەی پێغەمبەری خودا  30
 https://archive.org/download/omar-mahmud-faqie-2021-kurdish/30.mp4
+#EXTINF:-1  tvg-name="NewLain Movies" tvg-logo="" group-title="Movies",NewLain Movies
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807696
 #EXTINF:-1  tvg-name="NewLain Bollywood" tvg-logo="" group-title="Movies",NewLain Bollywood
 http://max4kcdn.com:8080/live/5161699711/3840575058/120180.m3u8
 #EXTINF:-1  tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 1 PREMIERE
