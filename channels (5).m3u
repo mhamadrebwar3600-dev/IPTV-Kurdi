@@ -10,7 +10,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_250
 #EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="کوردستان",K24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002_mp4a_128000_eng=20000.m3u8
 #EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="کوردستان",ONE Plus
-http://kcstream.ddns.net:1935/kurdcell/oneplus/playlist.m3u8
+https://tinyurl.com/5fr98ftv
 #EXTINF:-1  tvg-name="ONE Kids" tvg-logo="https://i.postimg.cc/HLPJrGWF/one-kids.png" group-title="کوردستان",ONE Kids
 http://kcstream.ddns.net:1935/kurdcell/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="کوردستان",Kurdsat
