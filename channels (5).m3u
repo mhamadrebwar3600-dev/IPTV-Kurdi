@@ -15,8 +15,12 @@ https://tinyurl.com/5fr98ftv
 http://kcstream.ddns.net:1935/kurdcell/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="کوردستان",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/LX95N38N/kalapur.png" group-title="کوردستان",Kalapur
+http://kcstream.ddns.net:1935/kurdcell/kalapur/playlist.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
-http://m12m5678.xyz:2082/893963693051/bHksg68fWnri8/807722
+http://kcstream.ddns.net:1935/kurdcell/rasantv/playlist.m3u8
+#EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",PSHDAR TV
+http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
 https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="کوردستان",Payam
@@ -33,6 +37,8 @@ http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="کوردستان",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
+http://kcstream.ddns.net:1935/kurdcell/spedadrama/playlist.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
 https://183.bozztv.com/giatv/giatv-Quran/Quran/chunks.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="کوردستان",Amozhgary
@@ -44,7 +50,7 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 #EXTINF:-1  tvg-name="Babolly" tvg-logo="https://i.postimg.cc/4d2fwCM4/channels4-profile.jpg" group-title="کوردستان",Babolly
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807606.ts
+http://kcstream.ddns.net:1935/kurdcell/baboly/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdana" tvg-logo="https://i.postimg.cc/SNGyXftC/kurdana.jpg" group-title="کوردستان",Kurdana
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601567.ts
 #EXTINF:-1  tvg-name="Znar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
@@ -56,7 +62,7 @@ http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807752.ts
 #EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
 https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="BMC TV" tvg-logo="https://i.postimg.cc/GtcVv2Rm/bmc.png" group-title="کوردستان",BMC TV
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807613.ts
+http://kcstream.ddns.net:1935/kurdcell/bmc/playlist.m3u8
 #EXTINF:-1  tvg-name="NERGZ" tvg-logo="https://i.postimg.cc/mZ1Mv8d3/nergzzzz.jpg" group-title="کوردستان",NERGZ
 http://max4kcdn.com:8080/live/5161699711/3840575058/183400.m3u8
 #EXTINF:-1  tvg-name="Kelga TV" tvg-logo="https://i.postimg.cc/YqDZmMyR/Kelga-TV.jpg" group-title="کوردستان",Kelga TV
@@ -127,8 +133,6 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601419.ts
 #EXTINF:-1  tvg-name="Kalhur TV" tvg-logo="https://i.postimg.cc/d0X3dCWn/kalhur.png" group-title="کوردستان",Kalhur TV
 https://live20.bozztv.com/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8?onesmart
-#EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
-https://speda2.site/upload/images/spedadrama.m3u8
 #EXTINF:-1  tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="کوردستان",Afarin Kids
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="Afarin Baxcha" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="کوردستان",Afarin Baxcha
@@ -185,8 +189,6 @@ https://live.host247.net/gk/gkplus/media_w513376264_49067.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Mirna TV" tvg-logo="https://i.postimg.cc/FFCSMJLp/Mirna-TV.png" group-title="کوردستان",Mirna TV
 http://161.97.123.126:8081/stream/mirna/master.m3u8
-#EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",PSHDAR TV
-http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
 https://live20.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="کوردستان",Duhok TV
@@ -225,12 +227,12 @@ https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="کوردستان",Sahar Kurdish
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/960136.ts
+#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="کوردستان",FARMUDA TV
+http://kcstream.ddns.net:1935/kurdcell/asosport/playlist.m3u8
 #EXTINF:-1  tvg-name="Hormzyar" tvg-logo="https://cdn.corenexis.com/f/zCDxXJ88PPh.png" group-title="کوردستان",Hormzyar
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="کوردستان",Avar
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/LX95N38N/kalapur.png" group-title="کوردستان",Kalapur
-http://blue4k.cc:8080/Jwan33/843480739398/567092
 #EXTINF:-1  tvg-name="Speda" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda
 https://speda1.site/upload/images/spedahd.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="کوردستان",Bangawaz
