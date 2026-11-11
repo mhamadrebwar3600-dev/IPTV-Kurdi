@@ -22,7 +22,7 @@ http://kcstream.ddns.net:1935/kurdcell/rasantv/playlist.m3u8
 #EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",PSHDAR TV
 http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="کوردستان",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="کوردستان",KHAK TV
@@ -296,7 +296,7 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143497.ts
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="ئاینی",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="کوردستان",Noor TV
-https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",TV Sunnat
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="ئاینی",Dangi Quran-Slemani
@@ -308,7 +308,7 @@ https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1  tvg-name="A.Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="ئاینی",A.Amozhgary
 https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1  tvg-name="Komall" tvg-logo="https://i.postimg.cc/43wkR7Vs/komal.png" group-title="ئاینی",Komall
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="ئاینی",SADA TV
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="ئاینی",test
