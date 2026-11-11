@@ -105,6 +105,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 http://8kstronk.online/0661169412/2790794985/701757
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="کوردستان",AVA SPORT
 http://192.168.0.102:8085/player.2884600
+#EXTINF:-1  tvg-name="AVA SPORT 2" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="کوردستان",AVA SPORT 2
+http://192.168.0.102:8085/player.2950155
 #EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="کوردستان",ASTERA SPORT
 http://max4kcdn.com:8080/live/5161699711/3840575058/119580.m3u8
 #EXTINF:-1  tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/dV5htRzX/images-(2).jpg" group-title="کوردستان",LD SPORT
@@ -290,7 +292,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="هەواڵ",NRT
 https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="ئاینی",Al-Quran Al-Kareem
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143496.ts
+http://192.168.0.102:8085/player.3015657
 #EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="ئاینی",Al-Sunnah Al-Nabawiyah
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143497.ts
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="ئاینی",Bangawaz
@@ -429,6 +431,8 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://8kstronk.online/0661169412/2790794985/701757
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="وەرزشی",AVA SPORT
 http://kcstream.ddns.net:1935/kurdcell/avasport/playlist.m3u8
+#EXTINF:-1  tvg-name="AVA SPORT 2" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="وەرزشی",AVA SPORT 2
+http://192.168.0.102:8085/player.2950155
 #EXTINF:-1  tvg-name="Thamanyah 1 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 1 4K
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/646086.ts
 #EXTINF:-1  tvg-name="Thamanyah 2 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 2 4K
