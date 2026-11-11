@@ -40,7 +40,7 @@ https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
 http://kcstream.ddns.net:1935/kurdcell/spedadrama/playlist.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
-https://183.bozztv.com/giatv/giatv-Quran/Quran/chunks.m3u8
+https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="کوردستان",Amozhgary
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1  tvg-name="A.Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="کوردستان",A.Amozhgary
@@ -302,7 +302,7 @@ https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",TV Sunnat
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="ئاینی",Dangi Quran-Slemani
-https://183.bozztv.com/giatv/giatv-Quran/Quran/chunks.m3u8
+https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="ئاینی",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="ئاینی",Amozhgary
