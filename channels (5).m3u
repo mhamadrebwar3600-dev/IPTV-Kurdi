@@ -371,6 +371,10 @@ http://s21tv.co:2082/893963693051/bHksg68fWnri8/2870
 https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
 #EXTINF:-1  tvg-name="5 KIDS" tvg-logo="" group-title="مناڵان",5 KIDS
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/289741.ts
+#EXTINF:-1  tvg-name="Carton Classic" tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="مناڵان",Carton Classic
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="iRead2Know" tvg-logo="https://gia.tv/channels/logo/11e1a3a2546d43083422a7f1e403d480.jpg" group-title="مناڵان",iRead2Know
+https://rpn.bozztv.com/gusa/gusa-iread2know/index.m3u8
 #EXTINF:-1  tvg-name="Qallam Kids" tvg-logo="https://i.postimg.cc/Rh4qkjrT/qallam-kids.png" group-title="مناڵان",Qallam Kids
 http://max4kcdn.com:8080/live/5161699711/3840575058/141651.m3u8
 #EXTINF:-1  tvg-name="be junior" tvg-logo="" group-title="مناڵان",be junior
