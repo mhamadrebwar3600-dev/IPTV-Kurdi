@@ -290,9 +290,13 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="هەواڵ",NRT
 https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="ئاینی",Al-Quran Al-Kareem
-http://192.168.0.102:8085/player.3015657
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="ئاینی",Al-Sunnah Al-Nabawiyah
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/143497.ts
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="ئاینی",MIHRAB
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="ئاینی",MIHRAB-FM
+http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="ئاینی",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="کوردستان",Noor TV
@@ -311,24 +315,18 @@ https://app-live.org/live/a267c1b3/index.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="ئاینی",SADA TV
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="ئاینی",test
+#EXTINF:-1  tvg-name="Qatar Quran Kareem" tvg-logo="https://i.postimg.cc/J4NBWn2c/Qatar-Quran.png" group-title="ئاینی",Qatar Quran Kareem
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
+#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="ئاینی",FARMUDA TV
+http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="ئاینی",ONE Plus
 https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
-#EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="ئاینی",MIHRAB
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="ئاینی",MIHRAB-FM
-http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="JUDII" tvg-logo="" group-title="ئاینی",JUDII
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601507.ts
 #EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا  1" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="ئاینی",ژیاننامەی پێغەمبەری خودا  1
 http://archive.org/download/omar-mahmud-faqie-2021-kurdish/1.mp4
 #EXTINF:-1  tvg-name="مامۆستا نورالدین ١" tvg-logo="https://i.postimg.cc/nVv5bpk2/dae0f2c1-362c-457f-a5b6-6d0e04c22aab.png" group-title="ئاینی",مامۆستا نورالدین ١
 https://tinyurl.com/teraman1
-#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="ئاینی",FARMUDA TV
-http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1  tvg-name="ASMAN" tvg-logo="" group-title="ئاینی",ASMAN
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601512.ts
 #EXTINF:-1  tvg-name="QATAR Quran Kareem" tvg-logo="https://i.postimg.cc/J4NBWn2c/Qatar-Quran.png" group-title="ئاینی",QATAR Quran Kareem
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 #EXTINF:-1  tvg-name="Sharjah Quran Kareem" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="ئاینی",Sharjah Quran Kareem
@@ -347,13 +345,15 @@ http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 #EXTINF:-1  tvg-name="EMAN TV" tvg-logo="https://i.postimg.cc/L8jRSH3P/Eman-tv-200.jpg" group-title="ئاینی",EMAN TV
 http://avrstream.com:1935/live/emantv/playlist.m3u8
+#EXTINF:-1  tvg-name="ASMAN" tvg-logo="" group-title="ئاینی",ASMAN
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601512.ts
 #EXTINF:-1  tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6ptb7tNn/Esra-1-200.png" group-title="ئاینی",ESRA TV 1
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
 #EXTINF:-1  tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="ئاینی",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
 #EXTINF:-1  tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="ئاینی",Naqshi Media
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="ئاینی",test
+#EXTINF:-1  tvg-name="Sharjah Quran Kareem" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="ئاینی",Sharjah Quran Kareem
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1  tvg-name="ONE Kids" tvg-logo="https://i.postimg.cc/HLPJrGWF/one-kids.png" group-title="مناڵان",ONE Kids
 https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
