@@ -261,6 +261,8 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/960137.ts
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="هەواڵ",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="NAWA-FM" tvg-logo="https://gia.tv/streams/logo/212001.jpg?1794519534" group-title="هەواڵ",NAWA-FM
+https://183.giatvcdn.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8
 #EXTINF:-1  tvg-name="AL Hadth Arabia" tvg-logo="https://i.postimg.cc/25ZDZBkF/Al-arabiya-al-hadath.jpg" group-title="هەواڵ",ALhadth Arabia
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:-1  tvg-name="BBC News" tvg-logo="https://cdn.corenexis.com/f/IOPrYUM5TUi.jpeg" group-title="هەواڵ",BBC News
