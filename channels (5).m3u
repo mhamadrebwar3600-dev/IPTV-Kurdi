@@ -84,7 +84,7 @@ http://imkhd.ddns.net:1935/live/imkhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Qellat" tvg-logo="https://i.postimg.cc/43FWFcHQ/Qellat-200.jpg" group-title="کوردستان",Qellat
 http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
 #EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="کوردستان",ONE Plus
-https://183.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="کوردستان",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/JhFGDSM0/rudaw.png" group-title="کوردستان",Rudaw
@@ -93,8 +93,6 @@ https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601480.ts
 #EXTINF:-1  tvg-name="Zhttp://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601480.tsnar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807755.ts
-#EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="کوردستان",ONE Plus
-https://183.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="MIHRAB-FM" tvg-logo="https://cdn.corenexis.com/f/0FiIGuHjY8H.jpeg" group-title="کوردستان",MIHRAB-FM
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="JUDII" tvg-logo="https://i.postimg.cc/nLbdvzK1/judii.png" group-title="کوردستان",JUDII
@@ -169,8 +167,6 @@ http://max4kcdn.com:8080/live/5161699711/3840575058/141613.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258541.ts
 #EXTINF:-1  tvg-name="MIX Kurdi" tvg-logo="https://i.postimg.cc/pXk70pNh/images.jpg" group-title="کوردستان",MIX Kurdi
 https://avr.host247.net/live/Mix-kurdy/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
-https://183.bozztv.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="کوردستان",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="MMN SHOW" tvg-logo="https://i.postimg.cc/QMB40Lb3/0cea15b1-281e-4b5a-95f6-88a884a84b22.png" group-title="کوردستان",MMN SHOW
@@ -191,20 +187,14 @@ http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 #EXTINF:-1  tvg-name="GK +" tvg-logo="https://i.postimg.cc/152GxXJq/gk.png" group-title="کوردستان",GK +
 https://live.host247.net/gk/gkplus/media_w513376264_49067.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Mirna TV" tvg-logo="https://i.postimg.cc/FFCSMJLp/Mirna-TV.png" group-title="کوردستان",Mirna TV
 http://161.97.123.126:8081/stream/mirna/master.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
-https://live20.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="کوردستان",Duhok TV
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601457.ts
 #EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="کوردستان",WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="کوردستان",Derin
 http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
-https://live20.bozztv.com/giatv/giatv-oneplus/oneplus/playlist.m3u8
 #EXTINF:-1  tvg-name="IRAQIA Kurdish" tvg-logo="https://i.postimg.cc/bJQqMQRh/iraqia-kurdish.png" group-title="کوردستان",IRAQIA Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 1" tvg-logo="https://i.postimg.cc/MGm54hXd/n1.png" group-title="کوردستان",NEWLAIN 1
@@ -229,8 +219,6 @@ https://iko-live.akamaized.net/kurdhd/master.m3u8
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Ranya City" tvg-logo="https://i.postimg.cc/RCYthQb8/OIP-(1).jpg" group-title="کوردستان",Ranya City
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
-#EXTINF:-1  tvg-name="test" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",test
-https://183.bozztv.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1  tvg-name="Sahar Kurdish" tvg-logo="https://i.postimg.cc/9X70fTh0/9f24aee898e0da7a4880479d41777b76.jpg" group-title="کوردستان",Sahar Kurdish
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/960136.ts
 #EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="کوردستان",FARMUDA TV
@@ -315,7 +303,7 @@ http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/HxwpLK3w/bangawaz.png" group-title="ئاینی",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-#EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="کوردستان",Noor TV
+#EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="ئاینی",Noor TV
 https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",TV Sunnat
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
