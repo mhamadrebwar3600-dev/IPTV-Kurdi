@@ -65,6 +65,8 @@ http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807753.ts
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807752.ts
 #EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
 https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  tvg-name="NAWA-FM" tvg-logo="https://gia.tv/streams/logo/212001.jpg?1794519534" group-title="هەواڵ",NAWA-FM
+https://183.giatvcdn.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8
 #EXTINF:-1  tvg-name="BMC TV" tvg-logo="https://i.postimg.cc/GtcVv2Rm/bmc.png" group-title="کوردستان",BMC TV
 http://kcstream.ddns.net:1935/kurdcell/bmc/playlist.m3u8
 #EXTINF:-1  tvg-name="NERGZ" tvg-logo="https://i.postimg.cc/mZ1Mv8d3/nergzzzz.jpg" group-title="کوردستان",NERGZ
