@@ -53,6 +53,8 @@ https://app-live.org/live/a267c1b3/index.m3u8
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="test" tvg-logo="" group-title="کوردستان",test
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
+#EXTINF:-1  tvg-name="istar QURAN" tvg-logo="" group-title="کوردستان",istar QURAN
+https://183.giatvcdn.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
 #EXTINF:-1  tvg-name="Babolly" tvg-logo="https://i.postimg.cc/4d2fwCM4/channels4-profile.jpg" group-title="کوردستان",Babolly
 http://kcstream.ddns.net:1935/kurdcell/baboly/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdana" tvg-logo="https://i.postimg.cc/SNGyXftC/kurdana.jpg" group-title="کوردستان",Kurdana
