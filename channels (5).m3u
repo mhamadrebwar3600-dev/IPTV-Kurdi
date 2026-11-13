@@ -120,9 +120,9 @@ http://max4kcdn.com:8080/live/5161699711/3840575058/179614.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="کوردستان",ASO Sport
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807594.ts
 #EXTINF:-1  tvg-name="NewLain SPORT" tvg-logo="" group-title="کوردستان",NewLain SPORT
-http://blue4k.cc:8080/Jwan33/843480739398/577552
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807697
 #EXTINF:-1  tvg-name="DOUHOK SPORT" tvg-logo="" group-title="کوردستان",DOUHOK SPORT
-http://max4kcdn.com:8080/live/5161699711/3840575058/35430.m3u8
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807625
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="کوردستان",KURDISTAN SPORT
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601398.ts
 #EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا  1" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="کوردستان",ژیاننامەی پێغەمبەری خودا  1
@@ -200,9 +200,9 @@ http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
 #EXTINF:-1  tvg-name="IRAQIA Kurdish" tvg-logo="https://i.postimg.cc/bJQqMQRh/iraqia-kurdish.png" group-title="کوردستان",IRAQIA Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1  tvg-name="NEWLAIN 1" tvg-logo="https://i.postimg.cc/MGm54hXd/n1.png" group-title="کوردستان",NEWLAIN 1
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601449.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807691
 #EXTINF:-1  tvg-name="NEWLAIN 2" tvg-logo="https://i.postimg.cc/xTg0fd7g/n2.png" group-title="کوردستان",NEWLAIN 2
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601450.ts
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807692
 #EXTINF:-1  tvg-name="LD NUJEN" tvg-logo="" group-title="کوردستان",LD NUJEN
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807669.ts
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="کوردستان",Kurdistan tv
@@ -912,9 +912,11 @@ https://archive.org/download/omar-mahmud-faqie-2021-kurdish/29.mp4
 #EXTINF:-1  tvg-name="ژیاننامەی پێغەمبەری خودا 30" tvg-logo="https://i.postimg.cc/yxhXvVj1/mhhmhd-mhla-fayhq.avif" group-title="مامۆستامحمد",ژیاننامەی پێغەمبەری خودا  30
 https://archive.org/download/omar-mahmud-faqie-2021-kurdish/30.mp4
 #EXTINF:-1  tvg-name="NewLain Movies" tvg-logo="" group-title="Movies",NewLain Movies
-http://s21tv.co:2082/893963693051/bHksg68fWnri8/807696
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807695
+#EXTINF:-1  tvg-name="NewLain Drama" tvg-logo="" group-title="Movies",NewLain Drama
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807694
 #EXTINF:-1  tvg-name="NewLain Bollywood" tvg-logo="" group-title="Movies",NewLain Bollywood
-http://max4kcdn.com:8080/live/5161699711/3840575058/120180.m3u8
+http://s21tv.co:2082/893963693051/bHksg68fWnri8/807693
 #EXTINF:-1  tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 1 PREMIERE
 http://clsmarview.club:2082/live/81613297/93571719/1014.ts
 #EXTINF:-1  tvg-name="beIN MOVIES 2 ACTION" tvg-logo="https://i.postimg.cc/YSwThrzw/Bein-movies-1.png" group-title="Movies",beIN MOVIES 2 ACTION
