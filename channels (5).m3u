@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="کوردستان",Al-Quran Al-Kareem
+#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/hPtth9FT/al-quran-al-kareem-tv-frekans-bilgisi.jpg" group-title="کوردستان",Al-Quran Al-Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="کوردستان",Al-Sunnah Al-Nabawiyah
+#EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/85G1GvBw/25a9a3b9b7d2796b069166b78f4ec357.jpg" group-title="کوردستان",Al-Sunnah Al-Nabawiyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/JhFGDSM0/rudaw.png" group-title="کوردستان",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
@@ -19,7 +19,7 @@ https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
 #EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="کوردستان",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/LX95N38N/kalapur.png" group-title="کوردستان",Kalapur
+#EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/nLt2GVGN/496255446-1144041494402484-8735964097426727098-n-jpg-stp-dst-jpg-tt6-cstp-mx2000x2000-ctp-s2000x2000.jpg" group-title="کوردستان",Kalapur
 http://kcstream.ddns.net:1935/kurdcell/kalapur/playlist.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
 http://kcstream.ddns.net:1935/kurdcell/rasantv/playlist.m3u8
