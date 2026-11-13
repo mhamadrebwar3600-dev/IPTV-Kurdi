@@ -136,7 +136,7 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 #EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="کوردستان",NRT 4
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601419.ts
 #EXTINF:-1  tvg-name="Kalhur TV" tvg-logo="https://i.postimg.cc/d0X3dCWn/kalhur.png" group-title="کوردستان",Kalhur TV
-https://kalhurtv.s.gy/live
+https://fra-prod-catalyst-0.lp-playback.studio/hls/video+533fu77e4641x1qm/index.m3u8
 #EXTINF:-1  tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="کوردستان",Afarin Kids
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="Afarin Baxcha" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="کوردستان",Afarin Baxcha
