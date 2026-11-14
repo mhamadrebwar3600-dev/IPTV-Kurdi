@@ -637,12 +637,16 @@ http://max4kcdn.com:8080/live/5161699711/3840575058/182752.m3u8
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/6867/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/xTD4wccH/Natinal-wild-200.jpg" group-title="دۆکیمێنتاری",National Geographic Wild
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/216/index.m3u8
+#EXTINF:-1  tvg-name="BBC EARTH" tvg-logo="" group-title="دۆکیمێنتاری",BBC EARTH
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/480p-en-cc/index.m3u8
 #EXTINF:-1  tvg-name="K24 Docu" tvg-logo="" group-title="دۆکیمێنتاری",K24 Docu
 http://max4kcdn.com:8080/live/5161699711/3840575058/141597.m3u8
 #EXTINF:-1 tvg-name="RENG Docu" tvg-logo="https://i.postimg.cc/RVpDb3WG/reng-documentary-1.png" group-title="دۆکیمێنتاری",RENG Docu
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601481.ts
 #EXTINF:-1 tvg-name="IRIB Mostanad" tvg-logo="https://i.imgur.com/lRDgugZ.png" tvg-id="IRIBMostanad.ir" tvg-chno="9" tvg-country="IR" group-title="دۆکیمێنتاری",IRIB Mostanad
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-name="WILD EARTH" tvg-logo="" group-title="دۆکیمێنتاری",WILD EARTH
+https://dqga3jatxofgx.cloudfront.net/WildEarth480.m3u8
 #EXTINF:-1 tvg-name="ASTERA Docu" tvg-logo="" group-title="دۆکیمێنتاری",ASTERA Docu
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601479.ts
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" tvg-id="TRTBelgesel.tr" tvg-chno="8" tvg-country="TR" group-title="دۆکیمێنتاری",TRT Belgesel
