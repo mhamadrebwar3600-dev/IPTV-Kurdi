@@ -158,9 +158,11 @@ https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 #EXTINF:-1  tvg-name="Qallam Kids" tvg-logo="https://i.postimg.cc/Rh4qkjrT/qallam-kids.png" group-title="کوردستان",Qallam Kids
 http://max4kcdn.com:8080/live/5161699711/3840575058/141651.m3u8
 #EXTINF:-1  tvg-name="FOX TV" tvg-logo="https://i.postimg.cc/cLr6GRzM/FOX-TV.png" group-title="کوردستان",FOX TV
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807628.ts
+http://kcstream.ddns.net:1935/kurdcell/FOXHD/playlist.m3u8
 #EXTINF:-1  tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/JhXnG1Ms/astera-family.png" group-title="کوردستان",ASTERA FAMILY
 http://max4kcdn.com:8080/live/5161699711/3840575058/119545.m3u8
+#EXTINF:-1  tvg-name="Live City" tvg-logo="" group-title="کوردستان",Live City
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/1/sig/a4d3280e04ac0c7f2e1da3efba01188be434d3df06d75347976100b5d49c6137/v1.m3u8
 #EXTINF:-1  tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/t4sZNVyj/Shar-tv-200.jpg" group-title="کوردستان",SHAR TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1  tvg-name="K24 Docu" tvg-logo="https://i.postimg.cc/RhgCjhQb/k24-docu.jpg" group-title="کوردستان",K24 Docu
@@ -597,6 +599,10 @@ http://s2.cdntv.online/low/9mlxywika2/1021/758521.m3u8
 http://s3.cdntv.online/low/9mlxywika2/1022/131753.m3u8
 #EXTINF:-1  tvg-name="Kuwait Sport" tvg-logo="" group-title="وەرزشی",Kuwait Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1  tvg-name="TVRI SPORTS" tvg-logo="" group-title="وەرزشی",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10003-mp4a_64000=20001.m3u8
+#EXTINF:-1  tvg-name="Racing SPORT" tvg-logo="" group-title="وەرزشی",RACING SPORT
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w959113329.m3u8
 #EXTINF:-1  tvg-name="ARENA SPORT PREMIUM 1" tvg-logo="https://i.postimg.cc/tJSgxBrX/arena-sport-1.png" group-title="وەرزشی",ARENA SPORT PREMIUM 1
 http://qfzgcoka.megatv.fun/iptv/H6YVMPFTP43U7U/31599/index.m3u8
 #EXTINF:-1  tvg-name="ARENA SPORT PREMIUM 2" tvg-logo="https://i.postimg.cc/mDZRyQ1L/arena-sport-2.png" group-title="وەرزشی",ARENA SPORT PREMIUM 2
@@ -981,6 +987,8 @@ https://cdn.video.krd/video/cmceq1rge001blb0jqcp5l7t8/content.m3u8
 https://cdn.video.krd/video/cmcesf61k001flb0jlwms7zrf/content.m3u8
 #EXTINF:-1  tvg-name="Toy Story 3" tvg-logo="" group-title="فیلم و کارتۆن",Toy Story 3
 https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
+#EXTINF:-1  tvg-name="Wonder Pets" tvg-logo="" group-title="فیلم و کارتۆن",Wonder Pets
+https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/208447/Wonder_Pets___Off_to_School____Save_the_Pirate_Parrot_.mp4/playlist.m3u8
 #EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="فیلم و کارتۆن",Tangled
 https://cdn.video.krd/video/cmevw5czj00rulb0jcnu2lfv8/content.m3u8
 #EXTINF:-1  tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="فیلم و کارتۆن",Migration
