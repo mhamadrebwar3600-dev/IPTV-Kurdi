@@ -62,9 +62,9 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601567.ts
 #EXTINF:-1  tvg-name="Znar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
 http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807755.ts
 #EXTINF:-1  tvg-name="ZED" tvg-logo="https://i.postimg.cc/SNGVy5D4/zed.png" group-title="کوردستان",ZED
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807753.ts
+http://iptvtree.net:8080/Javamicro/0481fbb702/14899
 #EXTINF:-1  tvg-name="ZED +" tvg-logo="https://i.postimg.cc/JnJcSdGS/zed.png" group-title="کوردستان",ZED +
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807752.ts
+http://iptvtree.net:8080/Javamicro/0481fbb702/300772
 #EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
 https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="NAWA-FM" tvg-logo="https://gia.tv/streams/logo/212001.jpg?1794519534" group-title="کوردستان",NAWA-FM
@@ -80,7 +80,7 @@ https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
 #EXTINF:-1  tvg-name="dimen tv" tvg-logo="https://i.postimg.cc/vmfNj98N/channels4-profile-(4).jpg" group-title="کوردستان",dimen tv
 http://max4kcdn.com:8080/live/5161699711/3840575058/141654.m3u8
 #EXTINF:-1  tvg-name="LD Anime" tvg-logo="https://i.postimg.cc/D0yp8MrN/Screenshot-2026-09-18-020614-removebg-preview.png" group-title="کوردستان",LD Anime
-http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807666.ts
+http://iptvtree.net:8080/Javamicro/0481fbb702/300727
 #EXTINF:-1  tvg-name="IMK TV" tvg-logo="https://i.postimg.cc/xCnSNTJK/Screenshot-5-6-2026-213012-www-bing-com.jpg" group-title="کوردستان",IMK TV
 http://imkhd.ddns.net:1935/live/imkhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Qellat" tvg-logo="https://i.postimg.cc/43FWFcHQ/Qellat-200.jpg" group-title="کوردستان",Qellat
@@ -435,6 +435,12 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211719/tracks-v1a1/mono.ts.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-name="Carton KIDS 3" tvg-logo="" group-title="مناڵان",Carton KIDS 3
 https://183.giatvcdn.com/giatvplayout7/giatv-208538/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="Carton KIDS 4" tvg-logo="" group-title="مناڵان",Carton KIDS 4
+https://183.giatvcdn.com/giatvplayout7/giatv-210257/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="Carton KIDS 5" tvg-logo="" group-title="مناڵان",Carton KIDS 5
+https://183.giatvcdn.com/giatvplayout7/giatv-211970/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="Carton KIDS 6" tvg-logo="" group-title="مناڵان",Carton KIDS 6
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:-1  tvg-name="Magico Kids" tvg-logo="https://gia.tv/streams/logo/211575.jpg?1794519379" group-title="مناڵان",Magico Kids
 https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 #EXTINF:-1  tvg-name="FOX Kids" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7CCf67x8kkpKbG51K7SF3wHaGg?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="مناڵان",FOX KIDS
@@ -651,6 +657,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/6867/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YDFRWUQHUKMN2V/216/index.m3u8
 #EXTINF:-1  tvg-name="BBC EARTH" tvg-logo="" group-title="دۆکیمێنتاری",BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/480p-en-cc/index.m3u8
+#EXTINF:-1  tvg-name="One World" tvg-logo="" group-title="دۆکیمێنتاری",One World
+http://iptvtree.net:8080/Javamicro/0481fbb702/300756
 #EXTINF:-1  tvg-name="K24 Docu" tvg-logo="" group-title="دۆکیمێنتاری",K24 Docu
 http://max4kcdn.com:8080/live/5161699711/3840575058/141597.m3u8
 #EXTINF:-1 tvg-name="RENG Docu" tvg-logo="https://i.postimg.cc/RVpDb3WG/reng-documentary-1.png" group-title="دۆکیمێنتاری",RENG Docu
@@ -991,6 +999,8 @@ https://cdn.video.krd/video/cmk5iw8gj002dlh0kux28l5fh/content.m3u8
 https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/208447/Wonder_Pets___Off_to_School____Save_the_Pirate_Parrot_.mp4/playlist.m3u8
 #EXTINF:-1  tvg-name="Tangled" tvg-logo="https://i.postimg.cc/ryWCZWPB/ym7Kst6a4uodryxqb-GOxmew-F235.webp" group-title="فیلم و کارتۆن",Tangled
 https://cdn.video.krd/video/cmevw5czj00rulb0jcnu2lfv8/content.m3u8
+#EXTINF:-1  tvg-name="Kids Carton" tvg-logo="" group-title="فیلم و کارتۆن",Kids Carton
+https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/208133/A_Cozy_Song.mp4/playlist.m3u8
 #EXTINF:-1  tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="فیلم و کارتۆن",Migration
 https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
 #EXTINF:-1  tvg-name="Shrek" tvg-logo="https://image.tmdb.org/t/p/w500/EKERKucZeBrkrR8xLDTkr5FeDc.jpg" group-title="فیلم و کارتۆن",Shrek
