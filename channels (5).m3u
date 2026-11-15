@@ -323,6 +323,8 @@ https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Qatar Quran Kareem" tvg-logo="https://i.postimg.cc/J4NBWn2c/Qatar-Quran.png" group-title="ئاینی",Qatar Quran Kareem
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
+#EXTINF:-1  tvg-name="Bahrain QURAN" tvg-logo="" group-title="ئاینی",Bahrain QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1615777052_b2487000.m3u8
 #EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="ئاینی",FARMUDA TV
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/MTzdFFFG/e9d24802-983f-441e-bd3f-eaa4cb77972c-removebg-preview-(1).png" group-title="ئاینی",ONE Plus
@@ -458,26 +460,26 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/646088.ts
 #EXTINF:-1  tvg-name="IRAQIA SPORT" tvg-logo="https://i.postimg.cc/SxCgBs3J/iraq-sport.png" group-title="وەرزشی",IRAQIA SPORT
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1  tvg-name="b-hd" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-hd
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/19515.ts
-#EXTINF:-1  tvg-name="b-sports 4k" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports 4k
-http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1084994.ts
-#EXTINF:-1  tvg-name="beIN Sports 1" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 1
-http://siam33156879.com/589400454333/139696004034/95383
-#EXTINF:-1  tvg-name="beIN Sports 2" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 2
-http://siam33156879.com/589400454333/139696004034/95384
-#EXTINF:-1  tvg-name="beIN Sports 3" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 3
-http://siam33156879.com/589400454333/139696004034/95385
-#EXTINF:-1  tvg-name="beIN Sports 4" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 4
-http://siam33156879.com/589400454333/139696004034/95386
-#EXTINF:-1  tvg-name="beIN Sports 5" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 5
-http://siam33156879.com/589400454333/139696004034/95387
-#EXTINF:-1  tvg-name="beIN Sports 6" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 6
-http://siam33156879.com/589400454333/139696004034/95388
-#EXTINF:-1  tvg-name="beIN Sports 7" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 7
-http://siam33156879.com/589400454333/139696004034/95389
-#EXTINF:-1  tvg-name="beIN Sports 8" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 8
+http://195.128.27.253/548607065148/955372318450/1513653.ts
+#EXTINF:-1  tvg-name="beIN SPORTS 4K/UHD" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN SPORTS 4K/UHD
+http://195.128.27.253/548607065148/955372318450/2627418.ts
+#EXTINF:-1  tvg-name="beIN Sports 1 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 1
+http://195.128.27.253/548607065148/955372318450/1536465.ts
+#EXTINF:-1  tvg-name="beIN Sports 2 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 2
+http://195.128.27.253/548607065148/955372318450/1536466.ts
+#EXTINF:-1  tvg-name="beIN Sports 3 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 3
+http://195.128.27.253/548607065148/955372318450/1536467.ts
+#EXTINF:-1  tvg-name="beIN Sports 4 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 4
+http://195.128.27.253/548607065148/955372318450/1536472.ts
+#EXTINF:-1  tvg-name="beIN Sports 5 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 5
+http://195.128.27.253/548607065148/955372318450/1536473.ts
+#EXTINF:-1  tvg-name="beIN Sports 6 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 6
+http://195.128.27.253/548607065148/955372318450/1536475.ts
+#EXTINF:-1  tvg-name="beIN Sports 7 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 7
+http://195.128.27.253/548607065148/955372318450/1536468.ts
+#EXTINF:-1  tvg-name="beIN Sports 8 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 8
 http://s21tv.co:2082/893963693051/bHksg68fWnri8/167706
-#EXTINF:-1  tvg-name="beIN Sports 9" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 9
+#EXTINF:-1  tvg-name="beIN Sports 9 4K" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",beIN Sports 9
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/1085000.ts
 #EXTINF:-1  tvg-name="b-sports xtra" tvg-logo="https://i.postimg.cc/LX5RJCsW/673-bein-sports.jpg" group-title="وەرزشی",b-sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
