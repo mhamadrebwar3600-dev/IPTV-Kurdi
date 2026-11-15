@@ -43,6 +43,10 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
 http://kcstream.ddns.net:1935/kurdcell/spedadrama/playlist.m3u8
+#EXTINF:-1  tvg-name="UTV" tvg-logo="" group-title="کوردستان",UTV
+http://iptvtree.net:8080/Javamicro/0481fbb702/147494
+#EXTINF:-1  tvg-name="UTV 2" tvg-logo="" group-title="کوردستان",UTV 2
+http://iptvtree.net:8080/Javamicro/0481fbb702/147357
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
 https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="کوردستان",Amozhgary
