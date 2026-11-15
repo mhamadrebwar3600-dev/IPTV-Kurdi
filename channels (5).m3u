@@ -327,6 +327,8 @@ https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="ئاینی",Dangi Quran-Slemani
 https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
+#EXTINF:-1  tvg-name="bahrainqurani" tvg-logo="" group-title="ئاینی",bahrainquran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1264212559_b2487000.m3u8
 #EXTINF:-1  tvg-name="Peshang" tvg-logo="https://i.postimg.cc/bdXGsDGJ/JVjn-VFh.jpg" group-title="ئاینی",Peshang
 https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="ئاینی",Amozhgary
