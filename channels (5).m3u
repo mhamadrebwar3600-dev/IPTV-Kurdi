@@ -143,6 +143,8 @@ https://tinyurl.com/teraman1
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1  tvg-name="QATAR Quran Kareem" tvg-logo="https://i.postimg.cc/J4NBWn2c/Qatar-Quran.png" group-title="کوردستان",QATAR Quran Kareem
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
+#EXTINF:-1  tvg-name="bahrainqurani" tvg-logo="" group-title="کوردستان",bahrainquran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1264212559_b2487000.m3u8
 #EXTINF:-1  tvg-name="Sharjah Quran Kareem" tvg-logo="https://i.postimg.cc/L4r8rVnj/Sharjah-TV.jpg" group-title="کوردستان",Sharjah Quran Kareem
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="کوردستان",NRT 4
