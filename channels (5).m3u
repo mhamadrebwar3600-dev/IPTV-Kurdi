@@ -44,7 +44,7 @@ https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
 http://kcstream.ddns.net:1935/kurdcell/spedadrama/playlist.m3u8
 #EXTINF:-1  tvg-name="UTV" tvg-logo="" group-title="کوردستان",UTV
-https://vsd288.okcdn.ru/hls/3527542770279.m3u8/sig/FRXG7jIC1XU/expires/1794869138971/srcIp/185.56.194.224/urls/178.237.29.198/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
+http://iptvtree.net:8080/Javamicro/0481fbb702/147497
 #EXTINF:-1  tvg-name="UTV 2" tvg-logo="" group-title="کوردستان",UTV 2
 http://iptvtree.net:8080/Javamicro/0481fbb702/147357
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
