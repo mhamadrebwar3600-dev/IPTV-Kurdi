@@ -20,11 +20,13 @@ https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
 #EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="کوردستان",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/nLt2GVGN/496255446-1144041494402484-8735964097426727098-n-jpg-stp-dst-jpg-tt6-cstp-mx2000x2000-ctp-s2000x2000.jpg" group-title="کوردستان",Kalapur
-http://kcstream.ddns.net:1935/kurdcell/kalapur/playlist.m3u8
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/19092
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
 http://185.218.86.6:8070/Javamicro/0481fbb702/152466
+#EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
+https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",PSHDAR TV
-http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/102497
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
 https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="کوردستان",Payam
@@ -44,9 +46,11 @@ https://stream.forcaroo.com/stream/hls/desktop.m3u8
 #EXTINF:-1  tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="کوردستان",Speda Drama
 http://kcstream.ddns.net:1935/kurdcell/spedadrama/playlist.m3u8
 #EXTINF:-1  tvg-name="UTV" tvg-logo="" group-title="کوردستان",UTV
-http://iptvtree.net:8080/Javamicro/0481fbb702/147497
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/6377
 #EXTINF:-1  tvg-name="UTV 2" tvg-logo="" group-title="کوردستان",UTV 2
 http://iptvtree.net:8080/Javamicro/0481fbb702/147357
+#EXTINF:-1  tvg-name="JAMAWAR TV" tvg-logo="https://i.postimg.cc/qMmg9xZK/339320881-174460321728077-1003813221191015837-n.jpg" group-title="کوردستان",JAMAWAR TV
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/5931
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="کوردستان",Dangi Quran-Slemani
 https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="کوردستان",Amozhgary
@@ -61,6 +65,8 @@ https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 https://183.giatvcdn.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
 #EXTINF:-1  tvg-name="Babolly" tvg-logo="https://i.postimg.cc/4d2fwCM4/channels4-profile.jpg" group-title="کوردستان",Babolly
 http://kcstream.ddns.net:1935/kurdcell/baboly/playlist.m3u8
+#EXTINF:-1  tvg-name="LD AZHIN" tvg-logo="" group-title="کوردستان",LD AZHIN
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/98935
 #EXTINF:-1  tvg-name="Kurdana" tvg-logo="https://i.postimg.cc/SNGyXftC/kurdana.jpg" group-title="کوردستان",Kurdana
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601567.ts
 #EXTINF:-1  tvg-name="Znar" tvg-logo="https://i.postimg.cc/9XZJkz9V/znar.jpg" group-title="کوردستان",Znar
@@ -69,8 +75,6 @@ http://iptvtree.net:8080/Javamicro/0481fbb702/286806
 http://iptvtree.net:8080/Javamicro/0481fbb702/14899
 #EXTINF:-1  tvg-name="ZED +" tvg-logo="https://i.postimg.cc/JnJcSdGS/zed.png" group-title="کوردستان",ZED +
 http://iptvtree.net:8080/Javamicro/0481fbb702/300772
-#EXTINF:-1  tvg-name="Ranya TV" tvg-logo="https://i.postimg.cc/Y9BJqRDT/ranyatv.jpg" group-title="کوردستان",Ranya TV
-https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="NAWA-FM" tvg-logo="https://gia.tv/streams/logo/212001.jpg?1794519534" group-title="کوردستان",NAWA-FM
 https://183.giatvcdn.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8
 #EXTINF:-1  tvg-name="BMC TV" tvg-logo="https://i.postimg.cc/GtcVv2Rm/bmc.png" group-title="کوردستان",BMC TV
@@ -118,11 +122,11 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/FKF0TH4N/nrt-sport.png" group-title="کوردستان",NRT SPORT
 http://195.128.27.253/548607065148/955372318450/931930.ts
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="کوردستان",AVA SPORT
-http://kcstream.ddns.net:1935/kurdcell/avasport/playlist.m3u8
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/1260602
 #EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="کوردستان",ASTERA SPORT
 http://max4kcdn.com:8080/live/5161699711/3840575058/119580.m3u8
 #EXTINF:-1  tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/dV5htRzX/images-(2).jpg" group-title="کوردستان",LD SPORT
-http://iptvtree.net:8080/Javamicro/0481fbb702/300735
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/5927
 #EXTINF:-1  tvg-name="LD SPORT Cheak " tvg-logo="https://i.postimg.cc/0jvkCrTS/Screenshot-16-7-2026-15318-www-bing.jpg" group-title="کوردستان",LD SPORT Cheak
 http://max4kcdn.com:8080/live/5161699711/3840575058/179614.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="کوردستان",ASO Sport
@@ -484,7 +488,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/FKF0TH4N/nrt-sport.png" group-title="وەرزشی",NRT SPORT
 http://195.128.27.253/548607065148/955372318450/931930.ts
 #EXTINF:-1  tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/KjTT1KnW/ava-sport.png" group-title="وەرزشی",AVA SPORT
-http://kcstream.ddns.net:1935/kurdcell/avasport/playlist.m3u8
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/1260602
 #EXTINF:-1  tvg-name="Thamanyah 1 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 1 4K
 http://195.128.27.253/548607065148/955372318450/1859018.ts
 #EXTINF:-1  tvg-name="Thamanyah 2 " tvg-logo="https://i.postimg.cc/gjGpZQhV/Screenshot-9-7-2026-1739-www-bing-com.jpg" group-title="وەرزشی",Thamanyah 2 4K
@@ -520,7 +524,7 @@ http://195.128.27.253/548607065148/955372318450/931996.ts
 #EXTINF:-1  tvg-name="ASTERA SPORT 2" tvg-logo="https://i.postimg.cc/TPH5Qj0k/astera-sport.png" group-title="وەرزشی",ASTERA SPORT 2
 http://185.95.184.33:25461/live/120541/20364/4321.m3u8
 #EXTINF:-1  tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/dV5htRzX/images-(2).jpg" group-title="وەرزشی",LD SPORT
-http://iptvtree.net:8080/Javamicro/0481fbb702/300735
+http://hmaptapy.msostvip.com/Q9J6CGHY/2RP6JV6A/5927
 #EXTINF:-1  tvg-name="LD SPORT Cheak " tvg-logo="https://i.postimg.cc/0jvkCrTS/Screenshot-16-7-2026-15318-www-bing.jpg" group-title="وەرزشی",LD SPORT Cheak
 http://max4kcdn.com:8080/live/5161699711/3840575058/179614.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="وەرزشی",ASO Sport
