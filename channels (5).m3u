@@ -22,7 +22,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 #EXTINF:-1  tvg-name="Kalapur" tvg-logo="https://i.postimg.cc/nLt2GVGN/496255446-1144041494402484-8735964097426727098-n-jpg-stp-dst-jpg-tt6-cstp-mx2000x2000-ctp-s2000x2000.jpg" group-title="کوردستان",Kalapur
 http://kcstream.ddns.net:1935/kurdcell/kalapur/playlist.m3u8
 #EXTINF:-1  tvg-name="Rasan" tvg-logo="https://i.postimg.cc/7PQhn78j/rasan.png" group-title="کوردستان",Rasan
-http://kcstream.ddns.net:1935/kurdcell/rasantv/playlist.m3u8
+http://185.218.86.6:8070/Javamicro/0481fbb702/152466
 #EXTINF:-1  tvg-name="PSHDAR TV" tvg-logo="https://i.postimg.cc/g2s7tqny/pshdar.jpg" group-title="کوردستان",PSHDAR TV
 http://max4kcdn.com:8080/live/5161699711/3840575058/119553.m3u8
 #EXTINF:-1  tvg-name="Komall TV" tvg-logo="https://i.postimg.cc/FH9bFDWZ/komal.png" group-title="کوردستان",Komall TV
