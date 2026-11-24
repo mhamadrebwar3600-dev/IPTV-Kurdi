@@ -1019,6 +1019,8 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 #EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1  tvg-name="Rambo (7) Helecopter" tvg-logo="https://image.tmdb.org/t/p/w342/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg" group-title="فیلم و کارتۆن",Rambo (7) Helecopter
+https://ia601900.us.archive.org/4/items/rambo-7helecopter/Rambo7helecopter.mp4
 #EXTINF:-1  tvg-name="Squid Game (S03-E01)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E01)
 https://cdn.video.krd/video/cmchp5j8r0021lb0j55tm9x4o/content.m3u8
 #EXTINF:-1  tvg-name="Squid Game (S03-E02)" tvg-logo="https://image.tmdb.org/t/p/original/gGfyDia4EOLrAeJPgdI5ae6sSO0.jpg" group-title="فیلم و کارتۆن",Squid Game (S03-E02)
@@ -1045,4 +1047,3 @@ https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
 https://cdn.video.krd/video/cm9db9fxp0037lb0l6zexc7v4/content.m3u8
 #EXTINF:-1  tvg-name="Mutiny 2026" tvg-logo="https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg" group-title="فیلم و کارتۆن",Mutiny 2026
 https://cdn.video.krd/video/cmt2zvi7v0086nx0ko14nivo1/content.m3u8
-
