@@ -34,7 +34,7 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="کوردستان",KHAK TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="کوردستان",Kurdistan tv
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+https://5a3ed7a72ed4b.streamlock.net/live/_definst_/myStream/media_w564589106_10359.ts
 #EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="کوردستان",‌Halabja
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="کوردستان",TV Sunnat
@@ -270,7 +270,7 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="Speda" tvg-logo="https://i.postimg.cc/vBWf0gKd/unnamed.png" group-title="هەواڵ",Speda
 http://26mix4k.com:80/21366166723693alaaaaa/29099131734834/960137.ts
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="هەواڵ",Kurdistan tv
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+https://5a3ed7a72ed4b.streamlock.net/live/_definst_/myStream/media_w564589106_10359.ts
 #EXTINF:-1  tvg-name="NAWA-FM" tvg-logo="https://gia.tv/streams/logo/212001.jpg?1794519534" group-title="هەواڵ",NAWA-FM
 https://183.giatvcdn.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8
 #EXTINF:-1  tvg-name="AL Hadth Arabia" tvg-logo="https://i.postimg.cc/25ZDZBkF/Al-arabiya-al-hadath.jpg" group-title="هەواڵ",ALhadth Arabia
