@@ -128,9 +128,13 @@ http://hmaptapy.msostvip.com:80/Q9J6CGHY/2RP6JV6A/6379
 #EXTINF:-1  tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/dV5htRzX/images-(2).jpg" group-title="کوردستان",LD SPORT
 http://kalaasmr.blog:8080/658886598/4700951103/1294135
 #EXTINF:-1  tvg-name="LD SPORT Cheak " tvg-logo="https://i.postimg.cc/0jvkCrTS/Screenshot-16-7-2026-15318-www-bing.jpg" group-title="کوردستان",LD SPORT Cheak
-http://max4kcdn.com:8080/live/5161699711/3840575058/179614.m3u8
+https://183.giatvcdn.com/giatv/giatv-yusfstoreldsport2/yusfstoreldsport2/chunks.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="کوردستان",ASO Sport
 http://iptvtree.net:8080/Javamicro/0481fbb702/193376
+#EXTINF:-1  tvg-name="FALCONE Sport 1" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="کوردستان",FALCONE Sport 1
+http://viptvptv.ddns.net/live/ku/ku/unit/falcone_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="FALCONE Sport 2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="کوردستان",FALCONE Sport 2
+http://viptvptv.ddns.net/live/ku/ku/unit/falcone_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="NewLain SPORT" tvg-logo="" group-title="کوردستان",NewLain SPORT
 http://iptvtree.net:8080/Javamicro/0481fbb702/300751
 #EXTINF:-1  tvg-name="DOUHOK SPORT" tvg-logo="" group-title="کوردستان",DOUHOK SPORT
@@ -525,6 +529,10 @@ http://iptvtree.net:8080/Javamicro/0481fbb702/300735
 http://max4kcdn.com:8080/live/5161699711/3840575058/179614.m3u8
 #EXTINF:-1  tvg-name="ASO Sport " tvg-logo="https://i.postimg.cc/W1z28BHf/ASO-Sport.png" group-title="وەرزشی",ASO Sport
 http://iptvtree.net:8080/Javamicro/0481fbb702/193376
+#EXTINF:-1  tvg-name="FALCONE Sport 1" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="وەرزشی",FALCONE Sport 1
+http://viptvptv.ddns.net/live/ku/ku/unit/falcone_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="FALCONE Sport 2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="وەرزشی",FALCONE Sport 2
+http://viptvptv.ddns.net/live/ku/ku/unit/falcone_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="DOUHOK SPORT" tvg-logo="" group-title="وەرزشی",DOUHOK SPORT
 http://iptvtree.net:8080/Javamicro/0481fbb702/301667
 #EXTINF:-1  tvg-name="Dasinya SPORT" tvg-logo="" group-title="وەرزشی",Dasinya SPORT
