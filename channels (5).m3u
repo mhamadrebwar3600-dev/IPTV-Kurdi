@@ -37,7 +37,7 @@ http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/_definst_/myStream/media_w564589106_10359.ts
 #EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="کوردستان",‌Halabja
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="کوردستان",TV Sunnat
+#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/tJ86GYsr/tvsunnat.jpg" group-title="کوردستان",TV Sunnat
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
 #EXTINF:-1  tvg-name="MIHRAB" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="کوردستان",MIHRAB
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
@@ -83,7 +83,7 @@ http://iptvtree.net:8080/Javamicro/0481fbb702/14899
 http://hmaptapy.msostvip.com:80/Q9J6CGHY/2RP6JV6A/5776
 #EXTINF:-1  tvg-name="BMC TV" tvg-logo="https://i.postimg.cc/GtcVv2Rm/bmc.png" group-title="کوردستان",BMC TV
 http://iptvtree.net:8080/Javamicro/0481fbb702/193385
-#EXTINF:-1  tvg-name="Radio Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="کوردستان",Radio Sunnat
+#EXTINF:-1  tvg-name="Radio Sunnat" tvg-logo="https://i.postimg.cc/tJ86GYsr/tvsunnat.jpg" group-title="کوردستان",Radio Sunnat
 https://a1.asurahosting.com:9380/radio.mp3
 #EXTINF:-1  tvg-name="NERGZ" tvg-logo="https://i.postimg.cc/mZ1Mv8d3/nergzzzz.jpg" group-title="کوردستان",NERGZ
 http://max4kcdn.com:8080/live/5161699711/3840575058/183400.m3u8
@@ -331,11 +331,11 @@ http://bblserver.ddns.net:1935/live/mihrabfm/tracks-v1a1/mono.m3u8
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1  tvg-name="Noor TV" tvg-logo="https://ottplayer.tv/public/images/user_icons/a468ed9d-3a76-4128-a318-7631ad64fa58.png" group-title="ئاینی",Noor TV
 https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
-#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",TV Sunnat
+#EXTINF:-1  tvg-name="TV Sunnat" tvg-logo="https://i.postimg.cc/tJ86GYsr/tvsunnat.jpg" group-title="ئاینی",TV Sunnat
 https://sunnattv.radiosunnat.net/live/rsunnat/index.m3u8
 #EXTINF:-1  tvg-name="Dangi Quran-Slemani" tvg-logo="https://i.postimg.cc/DyNY10yX/dangi-quran.png" group-title="ئاینی",Dangi Quran-Slemani
 https://sunnattv.radiosunnat.net/live/dangiquran/index.m3u8
-#EXTINF:-1  tvg-name="Radio Sunnat" tvg-logo="https://i.postimg.cc/FRQDF4t8/b5d63583-0c7f-47b3-88e9-12d45667e1f1.png" group-title="ئاینی",Radio Sunnat
+#EXTINF:-1  tvg-name="Radio Sunnat" tvg-logo="https://i.postimg.cc/tJ86GYsr/tvsunnat.jpg" group-title="ئاینی",Radio Sunnat
 https://a1.asurahosting.com:9380/radio.mp3
 #EXTINF:-1  tvg-name="bahrainqurani" tvg-logo="" group-title="ئاینی",bahrainquran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1264212559_b2487000.m3u8
